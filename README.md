@@ -3,7 +3,7 @@ This is a Language Pack generated from the [official Magento2 translations proje
 The Polish (polski) translations used can be found [here](https://crowdin.com/project/magento-2/pl).
 This translation is usefull for people living in the Poland (Polska).
 
-For our other language packs look at the [Magento2Translations](https://github.com/Magento2Translations) page.
+For our other language packs look at the [Magento2Translations](http://magento2translations.github.io/) page.
 
 # Instalation
 ## Via composer
