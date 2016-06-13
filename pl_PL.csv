@@ -1313,6 +1313,7 @@ Change,Zmień,module,Magento_Customer
 "Contact Information","Informacje kontaktowe",module,Magento_Customer
 "Change Password","Zmień hasło",module,Magento_Customer
 Newsletters,Newslettery,module,Magento_Customer
+or,lub,module,Magento_Customer
 "Default Addresses","Domyślne adresy",module,Magento_Customer
 "Change Billing Address","Zmień adres rozliczeniowy",module,Magento_Customer
 "You have no default billing address in your address book.","Nie masz podstawowego adresu płatnika w książce adresowej.",module,Magento_Customer
