@@ -1736,7 +1736,7 @@ Edit,Zmień,module,Magento_Customer
 Visitor,Odwiedzający,module,Magento_Customer
 Customer,Klient,module,Magento_Customer
 "No item specified.","Nie wybrano produktu.",module,Magento_Customer
-"Are you sure you want to remove this item?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Customer
+"Are you sure you want to remove this item?","Czy na pewno chcesz usunąć tę pozycję?",module,Magento_Customer
 "Personal Information","Dane osobiste",module,Magento_Customer
 "Last Logged In:","Ostatnio zalogowano:",module,Magento_Customer
 "Last Logged In (%1):","Ostatnio zalogowano w (%1):",module,Magento_Customer
@@ -4620,7 +4620,7 @@ Save,Zapisz,module,Magento_Tax
 "Grand Total Incl. Tax","Suma łączna z podatkiem",module,Magento_Tax
 Themes,Motywy,module,Magento_Theme
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Theme
-"Are you sure you want to delete this theme?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Theme
+"Are you sure you want to delete this theme?","Czy na pewno chcesz usunąć ten motyw?",module,Magento_Theme
 "Theme: %1","Temat: %1",module,Magento_Theme
 "New Theme","Nowy temat",module,Magento_Theme
 "Theme CSS","Temat CSS",module,Magento_Theme
@@ -5065,7 +5065,7 @@ Message,Wiadomość,module,Magento_Wishlist
 error-message,"komunikat o błędzie",module,Magento_Wishlist
 "Product Exception.","Błąd produktu.",module,Magento_Wishlist
 "Localized Exception.","Zlokalizowanie wyjątku.",module,Magento_Wishlist
-"Are you sure you want to remove this item?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Wishlist
+"Are you sure you want to remove this item?","Czy na pewno chcesz usunąć tę pozycję?",module,Magento_Wishlist
 "Share Wish List","Podziel się listą życzeń",module,Magento_Wishlist
 "Add All to Cart","Dodaj wszystko do koszyka",module,Magento_Wishlist
 "Update Wish List","Aktualizacja listy życzeń",module,Magento_Wishlist
@@ -5847,7 +5847,7 @@ Type,Rodzaj,module,Magento_Customer
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","Jeśli Twoja strona Magento ma wiele widoków, można ustawić zakresu do zastosowania dla określonego widoku.",module,Magento_Customer
 "Send Welcome Email From","Wyślij wiadomość powitalną z tego emaila",module,Magento_Customer
 Addresses,"Książka adresowa",module,Magento_Customer
-"Are you sure you want to delete this item?","Czy na pewno chcesz usunąć ten produkt?",module,Magento_Customer
+"Are you sure you want to delete this item?","Czy na pewno chcesz usunąć tę pozycję?",module,Magento_Customer
 "Account Dashboard","Panel konta",module,Magento_Customer
 "Edit Account Information","Edytuj informacje o koncie",module,Magento_Customer
 "Password forgotten","Zapomniane hasło",module,Magento_Customer
