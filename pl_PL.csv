@@ -1,11 +1,11 @@
-"Read Details","Czytaj szczegóły",module,Magento_AdminNotification
+"Read Details","Przeczytaj szczegóły",module,Magento_AdminNotification
 "Mark as Read","Oznacz jako przeczytane",module,Magento_AdminNotification
 "Are you sure?","Czy na pewno tego chcesz?",module,Magento_AdminNotification
 Remove,Usuń,module,Magento_AdminNotification
 "Messages Inbox","Skrzynka odbiorcza",module,Magento_AdminNotification
 "You have %1 new system messages","Masz nowe wiadomości systemowe: %1",module,Magento_AdminNotification
 "You have %1 new system message","Masz %1 nową wiadomość systemową",module,Magento_AdminNotification
-"Incoming Message","Przychodząca wiadomość",module,Magento_AdminNotification
+"Incoming Message","Nowa wiadomość",module,Magento_AdminNotification
 close,zamknij,module,Magento_AdminNotification
 Notifications,Powiadomienia,module,Magento_AdminNotification
 "The message has been marked as Read.","Wiadomość została oznaczona jako przeczytana.",module,Magento_AdminNotification
@@ -67,7 +67,7 @@ Invalidated,Unieważniony,module,Magento_Backend
 Orders,Zamówienia,module,Magento_Backend
 Amounts,Ilości,module,Magento_Backend
 Bestsellers,Bestsellery,module,Magento_Backend
-"Most Viewed Products","Najczęściej oglądane produkty",module,Magento_Backend
+"Most Viewed Products","Najczęściej oglądane",module,Magento_Backend
 "New Customers","Nowi klienci",module,Magento_Backend
 Customers,Klienci,module,Magento_Backend
 Customer,Klient,module,Magento_Backend
@@ -580,30 +580,30 @@ Year,Rok,module,Magento_Catalog
 label,etykieta,module,Magento_Catalog
 "Product Attributes","Cechy produktu",module,Magento_Catalog
 "Add New Attribute","Dodaj cechę",module,Magento_Catalog
-"Save in New Attribute Set","Zapisz nowy zestaw atrybutów",module,Magento_Catalog
+"Save in New Attribute Set","Zapisz w nowym zestawie cech",module,Magento_Catalog
 "Enter Name for New Attribute Set","Wprowadź nazwę dla nowego zestawu atrybutów",module,Magento_Catalog
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Catalog
 "Save Attribute","Zapisz cechę",module,Magento_Catalog
 "Delete Attribute","Usuń cechę",module,Magento_Catalog
 "Edit Product Attribute ""%1""","Edytuj cechę produktu ""%1""",module,Magento_Catalog
 "New Product Attribute","Nowa cecha produktu",module,Magento_Catalog
-"Advanced Attribute Properties","Zaawansowane właściwości atrybutu",module,Magento_Catalog
+"Advanced Attribute Properties","Zaawansowane właściwości cechy",module,Magento_Catalog
 "Attribute Code","Kod cechy",module,Magento_Catalog
 "Default Value","Domyślna wartość",module,Magento_Catalog
 "Unique Value","Unikalna wartość",module,Magento_Catalog
 "Unique Value (not shared with other products)","Unikalna wartość (nie jest współdzielona z innymi produktami)",module,Magento_Catalog
 "Not shared with other products","Nie dzielone z innymi produktami",module,Magento_Catalog
-"Input Validation for Store Owner","Sprawdzanie poprawności danych dla właściciela sklepu",module,Magento_Catalog
+"Input Validation for Store Owner","Sprawdzanie poprawności danych",module,Magento_Catalog
 "Store View","Widok sklepu",module,Magento_Catalog
 Website,Witryna,module,Magento_Catalog
 Global,Globalny,module,Magento_Catalog
 Scope,Zakres,module,Magento_Catalog
 "Declare attribute value saving scope","Zadeklaruj zakres zapisywania wartości cechy",module,Magento_Catalog
-"Use for Promo Rule Conditions","Używaj w warunkach reguł promocyjnych",module,Magento_Catalog
+"Use for Promo Rule Conditions","Dostępny w warunkach reguł promocyjnych",module,Magento_Catalog
 "Enable WYSIWYG","Włącz WYSIWYG",module,Magento_Catalog
-"Used in Product Listing","Użyte w listach produktów",module,Magento_Catalog
+"Used in Product Listing","Dostępny na liście produktów",module,Magento_Catalog
 "Depends on design theme","Zależy od wyglądu motywu",module,Magento_Catalog
-"Used for Sorting in Product Listing","Użyte dla sortowania produktów na listach",module,Magento_Catalog
+"Used for Sorting in Product Listing","Dostępny do sortowania na liście produktów",module,Magento_Catalog
 "Media Image","Obrazek mediów",module,Magento_Catalog
 Gallery,Galeria,module,Magento_Catalog
 "System Properties","Właściwości systemowe",module,Magento_Catalog
@@ -836,7 +836,7 @@ Dropdown,"Lista rozwijana",module,Magento_Catalog
 "Collapse All","Zwiń wszystko",module,Magento_Catalog
 "Expand All","Rozwiń wszystko",module,Magento_Catalog
 "Use Default Value","Użyj wartości domyślnej",module,Magento_Catalog
-"Manage Titles (Size, Color, etc.)","Zarządzaj tytułami (rozmiar, kolor itp.)",module,Magento_Catalog
+"Manage Titles (Size, Color, etc.)","Zarządzaj etykietami (Rozmiar, Kolor itp.)",module,Magento_Catalog
 "Manage Options (values of your attribute)","Zarządzaj opcjami (wartościami cechy)",module,Magento_Catalog
 "Is Default","Jest domyślny",module,Magento_Catalog
 "Add Option","Dodaj opcję",module,Magento_Catalog
@@ -886,7 +886,7 @@ Title,Tytuł,module,Magento_Catalog
 Action,Operacja,module,Magento_Catalog
 "and above","i powyżej",module,Magento_Catalog
 "Delete Tier","Usuń poziom",module,Magento_Catalog
-"Product In Websites","Produkt dostępny w witrynach",module,Magento_Catalog
+"Product In Websites","Dostępność w witrynach",module,Magento_Catalog
 "(Copy data from: %1)","(Kopiuj dane z: %1)",module,Magento_Catalog
 "Alt Text","Tekst alternatywny",module,Magento_Catalog
 Role,Rola,module,Magento_Catalog
@@ -1482,7 +1482,7 @@ Refunded,Zwrócone,module,Magento_Downloadable
 "Unique Value","Unikalna wartość",module,Magento_Eav
 "Unique Value (not shared with other products)","Unikalna wartość (nie jest współdzielona z innymi produktami)",module,Magento_Eav
 "Not shared with other products","Nie dzielone z innymi produktami",module,Magento_Eav
-"Input Validation for Store Owner","Sprawdzanie poprawności danych dla właściciela sklepu",module,Magento_Eav
+"Input Validation for Store Owner","Sprawdzanie poprawności danych",module,Magento_Eav
 Required,Wymagane,module,Magento_Eav
 Yes,Tak,module,Magento_Eav
 No,Nie,module,Magento_Eav
@@ -1733,7 +1733,7 @@ Add/Update,Dodaj/Aktualizuj,module,Magento_ImportExport
 Continue,Kontynuuj,module,Magento_ImportExport
 "Validation Results","Rezultat walidacji",module,Magento_ImportExport
 "Indexer Management","Zarządzanie indeksacją",module,Magento_Indexer
-"Update by Schedule","Aktualizacja według harmonogramu",module,Magento_Indexer
+"Update by Schedule","Aktualizuj z harmonogramem",module,Magento_Indexer
 "Update on Save","Aktualizuj przy zapisie",module,Magento_Indexer
 "Reindex required","Wymagane przeindeksowanie",module,Magento_Indexer
 Ready,Gotowe,module,Magento_Indexer
@@ -4506,7 +4506,7 @@ Enable,Włącz,module,Magento_GoogleAnalytics
 "Imported File","Zaimportowany plik",module,Magento_ImportExport
 "Error File","Błąd pliku",module,Magento_ImportExport
 "Execution Time","Czas wykonania",module,Magento_ImportExport
-Indexer,Indeksacja,module,Magento_Indexer
+Indexer,Indeks,module,Magento_Indexer
 Description,Opis,module,Magento_Indexer
 Mode,Tryb,module,Magento_Indexer
 Updated,Zaktualizowano,module,Magento_Indexer
