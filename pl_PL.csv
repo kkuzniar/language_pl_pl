@@ -581,7 +581,7 @@ label,etykieta,module,Magento_Catalog
 "Product Attributes","Cechy produktu",module,Magento_Catalog
 "Add New Attribute","Dodaj cechę",module,Magento_Catalog
 "Save in New Attribute Set","Zapisz w nowym zestawie cech",module,Magento_Catalog
-"Enter Name for New Attribute Set","Wprowadź nazwę dla nowego zestawu atrybutów",module,Magento_Catalog
+"Enter Name for New Attribute Set","Wprowadź nazwę dla nowego zestawu cech",module,Magento_Catalog
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_Catalog
 "Save Attribute","Zapisz cechę",module,Magento_Catalog
 "Delete Attribute","Usuń cechę",module,Magento_Catalog
@@ -593,7 +593,7 @@ label,etykieta,module,Magento_Catalog
 "Unique Value","Unikalna wartość",module,Magento_Catalog
 "Unique Value (not shared with other products)","Unikalna wartość (nie jest współdzielona z innymi produktami)",module,Magento_Catalog
 "Not shared with other products","Nie dzielone z innymi produktami",module,Magento_Catalog
-"Input Validation for Store Owner","Sprawdzanie poprawności danych",module,Magento_Catalog
+"Input Validation for Store Owner","Sprawdzanie danych",module,Magento_Catalog
 "Store View","Widok sklepu",module,Magento_Catalog
 Website,Witryna,module,Magento_Catalog
 Global,Globalny,module,Magento_Catalog
@@ -1482,7 +1482,7 @@ Refunded,Zwrócone,module,Magento_Downloadable
 "Unique Value","Unikalna wartość",module,Magento_Eav
 "Unique Value (not shared with other products)","Unikalna wartość (nie jest współdzielona z innymi produktami)",module,Magento_Eav
 "Not shared with other products","Nie dzielone z innymi produktami",module,Magento_Eav
-"Input Validation for Store Owner","Sprawdzanie poprawności danych",module,Magento_Eav
+"Input Validation for Store Owner","Sprawdzanie danych",module,Magento_Eav
 Required,Wymagane,module,Magento_Eav
 Yes,Tak,module,Magento_Eav
 No,Nie,module,Magento_Eav
