@@ -5134,7 +5134,7 @@ Password:,Hasło:,module,Magento_Customer
 "Thank you for confirming your %store_name account.","Dziękuję za potwierdzenie konta na %store_name.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Zaloguj się na naszej stronie i ustaw hasło, kliknij na ten <a href=""%create_password_url""> link</a>:",module,Magento_Customer
 "There was recently a request to change the password for your account.","Otrzymaliśmy żądanie zmiany hasła dla Twojego konta.",module,Magento_Customer
-"If you requested this change, set a new password here:","Jeśli chcesz zmienić, wpisz tu nowe hasło:",module,Magento_Customer
+"If you requested this change, set a new password here:","Jeśli zażądałeś tej zmiany, ustaw swoje hasło tutaj:",module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie takie samo.",module,Magento_Customer
 "Currency Update Warnings","Ostrzeżenia aktualizacji waluty",module,Magento_Directory
 "Thank you, %store_name","Dziękuję, %store_name",module,Magento_Email
@@ -5165,7 +5165,7 @@ Password:,Hasło:,module,Magento_Customer
 "Thank you,","Dziękuję,",module,Magento_User
 "There was recently a request to change the password for your account.","Otrzymaliśmy żądanie zmiany hasła dla Twojego konta.",module,Magento_User
 "If you requested this change, reset your password here:","Jeśli zażądałeś zmiany, zresetuj swoje hasło tutaj:",module,Magento_User
-"If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie takie samo.",module,Magento_User
+"If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie niezmienione.",module,Magento_User
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name chce się z tobą podzielić tą listą życzeń z %store_name:",module,Magento_Wishlist
 "Message from %customer_name:","Wiadomość od %customer_name:",module,Magento_Wishlist
 "View all Wish List items","Zobacz wszystkie elementy listy życzeń",module,Magento_Wishlist
@@ -5174,7 +5174,7 @@ Password:,Hasło:,module,Magento_Customer
 Email:,E-mail:,theme,frontend/Magento/luma
 Password:,Hasło:,theme,frontend/Magento/luma
 "Password you set when creating account","Hasło, które można ustawić podczas tworzenia konta",theme,frontend/Magento/luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapomniałeś swoje hasło? Kliknij <a href=""%reset_url""> tutaj</a> aby je zresetować.",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapomniałeś swojego hasła? Kliknij <a href=""%reset_url""> tutaj</a>, aby je zresetować.",theme,frontend/Magento/luma
 "When you sign in to your account, you will be able to:","Gdy zalogujesz się na swoje konto, będziesz mógł:",theme,frontend/Magento/luma
 "Quick Checkout","Szybkie zamówienie",theme,frontend/Magento/luma
 "Proceed through checkout faster","Przejdź szybciej przez proces zakupowy",theme,frontend/Magento/luma
