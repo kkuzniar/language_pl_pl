@@ -2222,15 +2222,15 @@ From,Od,module,Magento_GiftMessage
 To,Do,module,Magento_GiftMessage
 Message,Wiadomość,module,Magento_GiftMessage
 Cancel,Anuluj,module,Magento_GiftMessage
-"Gift Options","Opcje prezentowe",module,Magento_GiftMessage
+"Gift Options","Opcje podarunkowe",module,Magento_GiftMessage
 "Gift Message","Wiadomość prezentowa",module,Magento_GiftMessage
 "Do you have any gift items in your order?","Czy twoje zamówienie zawiera prezenty?",module,Magento_GiftMessage
 "Add gift options","Dodaj opcje prezentowe",module,Magento_GiftMessage
 "Gift Options for the Entire Order","Opcje prezentowe dla całego zamówienia",module,Magento_GiftMessage
-"Gift Options for Individual Items","Opcje prezentowe dla pojedyńczych produktów",module,Magento_GiftMessage
+"Gift Options for Individual Items","Opcje podarunkowe dla pojedynczych produktów",module,Magento_GiftMessage
 "<span>Item %1</span> of %2","<span>Produkt %1</span> %2",module,Magento_GiftMessage
 "Add Gift Options for the Entire Order","Dodaj opcje prezentowe dla całego zamówienia",module,Magento_GiftMessage
-"Add gift options for Individual Items","Dodaj opcje prezentowe dla pojedyńczych produktów",module,Magento_GiftMessage
+"Add gift options for Individual Items","Dodaj opcje podarunkowe dla pojedynczych produktów",module,Magento_GiftMessage
 Dynamic,Dynamiczny,module,Magento_GoogleAdwords
 Constant,Stała,module,Magento_GoogleAdwords
 "Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Wartość konwersji dla koloru nie jest poprawna ""%1"". Proszę ustawić szesnastkową wartość 6-cyfrową.",module,Magento_GoogleAdwords
@@ -4104,7 +4104,7 @@ From:,Z:,module,Magento_Sales
 To:,Do:,module,Magento_Sales
 Message:,Wiadomość:,module,Magento_Sales
 "Shipping &amp; Handling","Wysyłka &amp; Pakowanie",module,Magento_Sales
-"Gift Options","Opcje prezentowe",module,Magento_Sales
+"Gift Options","Opcje podarunkowe",module,Magento_Sales
 "Create Shipment","Utwórz dostawę",module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Rodzaj faktury i przesyłki nie pasują do niektórych elementów w tej kolejności. Można utworzyć wysyłkę tylko po utworzeniu faktury.",module,Magento_Sales
 "Qty to Invoice","Ilość do zafakturowania",module,Magento_Sales
@@ -4851,7 +4851,7 @@ Role,Rola,module,Magento_User
 "User Role","Rola użytkownika",module,Magento_User
 "Please correct the password reset token.","Proszę o poprawne hasło resetowania tokenu.",module,Magento_User
 "Please specify the correct account and try again.","Określ poprawne konto i spróbuj ponownie.",module,Magento_User
-"Your password reset link has expired.","Link resteowania hasła utracił ważność.",module,Magento_User
+"Your password reset link has expired.","Link resetowania hasła utracił ważność.",module,Magento_User
 "Please correct this email address:","Proszę poprawić adres e-mail:",module,Magento_User
 "Please enter an email address.","Podaj adres e-mail.",module,Magento_User
 "You updated your password.","Zaktualizowałeś swoje hasło.",module,Magento_User
@@ -6623,6 +6623,7 @@ Debug,"Tryb debug",module,Magento_Usps
 "Variable ID","ID zmiennej",module,Magento_Variable
 Name,Nazwa,module,Magento_Variable
 "Web API Security","Zabezpieczenia Web API",module,Magento_WebapiSecurity
+"Allow Anonymous Guest Access","Zezwalaj na dostęp anonimowy Gości",module,Magento_WebapiSecurity
 "SOAP Settings","Ustawienia protokołu SOAP",module,Magento_Webapi
 "Default Response Charset","Domyślny zestaw znaków odpowiedzi",module,Magento_Webapi
 "If empty, UTF-8 will be used.","Jeśli puste, zostanie użyte UTF-8.",module,Magento_Webapi
