@@ -2362,7 +2362,7 @@ Subtotal,"Suma częściowa",module,Magento_Quote
 "Selected option(s) or their combination is not currently available.","Wybrane opcje lub ich kombinacje nie są dostępne.",module,Magento_Quote
 "Some item options or their combination are not currently available.","Wybrane opcje lub ich kombinacje nie są dostępne.",module,Magento_Quote
 "Please check the shipping address information. %1","Proszę sprawdzić adres dostawy. %1",module,Magento_Quote
-"Please specify a shipping method.","Prosimy o wybór metody dostawy.",module,Magento_Quote
+"Please specify a shipping method.","Proszę wybrać sposób dostawy.",module,Magento_Quote
 "Please check the billing address information. %1","Proszę sprawdzić adres rozliczeniowy. %1",module,Magento_Quote
 "Please select a valid payment method.","Prosimy wybrać prawidłową formę płatności.",module,Magento_Quote
 "Store Credit","Kredyt w sklepie",module,Magento_Quote
@@ -2584,7 +2584,7 @@ Ratings,Oceny,module,Magento_Review
 "You saved the rating.","Zapisano ocenę.",module,Magento_Review
 "My Product Reviews","Moje opinie do produktów",module,Magento_Review
 "Storage key was not set","Nie został ustawiony klucz pamięci",module,Magento_Review
-Approved,"Zwrot zakończony",module,Magento_Review
+Approved,Zatwierdzony,module,Magento_Review
 Pending,Oczekujący,module,Magento_Review
 "Not Approved",Odrzucona,module,Magento_Review
 "Rating isn't Available","Ocenianie niedostępne",module,Magento_Review
@@ -3868,9 +3868,9 @@ All,Wszystko,module,Magento_Widget
 Apply,Zastosuj,module,Magento_Widget
 Page,Strona,module,Magento_Widget
 "Wish List","Lista życzeń",module,Magento_Wishlist
-"Wish List Sharing","Udostępnianie listy życzeń",module,Magento_Wishlist
+"Wish List Sharing","Udostępnianie schowka",module,Magento_Wishlist
 "My Wish List","Moja lista życzeń",module,Magento_Wishlist
-"%1's Wish List","%1 listy życzeń",module,Magento_Wishlist
+"%1's Wish List","Schowek %1",module,Magento_Wishlist
 "You added %1 to your shopping cart.","Dodałeś %1 do koszyka.",module,Magento_Wishlist
 "This product(s) is out of stock.","Ten produkt jest niedostępny na magazynie.",module,Magento_Wishlist
 "%1 has been moved to your wish list.","%1 został przeniesiony do Twojej listy życzeń.",module,Magento_Wishlist
@@ -3911,7 +3911,7 @@ Back,Powrót,module,Magento_Wishlist
 "Email addresses, separated by commas","Adresy e-mail rozdzielane przecinkami",module,Magento_Wishlist
 "Last Added Items","Ostatnio dodane produkty",module,Magento_Wishlist
 "Remove This Item","Usuń ten element",module,Magento_Wishlist
-"Go to Wish List","Przejdź do listy życzeń",module,Magento_Wishlist
+"Go to Wish List","Przejdź do schowka",module,Magento_Wishlist
 "You have no items in your wish list.","Nie masz żadnych produktów w schowku.",module,Magento_Wishlist
 "Shop By","Kupuj wg",theme,frontend/Magento/luma
 Total:,Razem:,module,Magento_Checkout
