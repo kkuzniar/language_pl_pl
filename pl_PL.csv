@@ -3509,7 +3509,7 @@ Subtotal,"Suma częściowa",module,Magento_Quote
 "Cannot place order.","Nie można złożyć zamówienia.",module,Magento_Quote
 "This item price or quantity is not valid for checkout.","Ta cena lub ilość nie jest ważna dla kasy.",module,Magento_Quote
 "Please check the shipping address information. %1","Proszę sprawdzić adres dostawy. %1",module,Magento_Quote
-"Please specify a shipping method.","Prosimy o wybór metody dostawy.",module,Magento_Quote
+"Please specify a shipping method.","Proszę wybrać sposób dostawy.",module,Magento_Quote
 "Please check the billing address information. %1","Proszę sprawdzić adres rozliczeniowy. %1",module,Magento_Quote
 "Please select a valid payment method.","Prosimy wybrać prawidłową formę płatności.",module,Magento_Quote
 "Store Credit","Kredyt w sklepie",module,Magento_Quote
@@ -3769,7 +3769,7 @@ Ratings,Oceny,module,Magento_Review
 "You submitted your review for moderation.","Dodano swoją recenzję do moderacji.",module,Magento_Review
 "We can't post your review right now.","W tej chili nie możemy wysłać Twojej recenzji.",module,Magento_Review
 "Storage key was not set","Nie został ustawiony klucz pamięci",module,Magento_Review
-Approved,"Zwrot zakończony",module,Magento_Review
+Approved,Zatwierdzony,module,Magento_Review
 Pending,Oczekujący,module,Magento_Review
 "Not Approved",Odrzucona,module,Magento_Review
 "Please enter a review summary.","Proszę wpisać treść podsumowania opinii.",module,Magento_Review
@@ -4269,7 +4269,7 @@ Home,"Strona główna",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","Nie można dodać produktu do koszyka przez ID ""%1"".",module,Magento_Sales
 "There is an error in one of the option rows.","W jednym z rzędów opcji jest błąd.",module,Magento_Sales
 "Please specify order items.","Proszę określić kolejność elementów.",module,Magento_Sales
-"Please specify a shipping method.","Prosimy o wybór metody dostawy.",module,Magento_Sales
+"Please specify a shipping method.","Proszę wybrać sposób dostawy.",module,Magento_Sales
 "Please specify a payment method.","Prosimy o wybór metody płatności.",module,Magento_Sales
 "This payment method is not available.","Ta metoda płatności nie jest dostępna.",module,Magento_Sales
 "Validation is failed.","Weryfikacja nie powiodła się.",module,Magento_Sales
@@ -4466,7 +4466,7 @@ Subtotal:,"Suma częściowa:",module,Magento_Sales
 "Custom Price","Niestandardowa cena",module,Magento_Sales
 "Please select","Proszę wybrać",module,Magento_Sales
 "Move to Shopping Cart","Przenieś do koszyka",module,Magento_Sales
-"Move to Wish List","Dodaj do listy życzeń",module,Magento_Sales
+"Move to Wish List","Dodaj do schowka",module,Magento_Sales
 "Subscribe to Newsletter","Subskrybuj newsletter",module,Magento_Sales
 "Click to change shipping method","Kliknij, aby zmienić metodę wysyłki",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Przepraszamy cudzysłowie nie jest dostępne dla tego zamówienia.",module,Magento_Sales
@@ -5493,7 +5493,7 @@ All,Wszystko,module,Magento_Widget
 Apply,Zastosuj,module,Magento_Widget
 Page,Strona,module,Magento_Widget
 "Wish List","Lista życzeń",module,Magento_Wishlist
-"Wish List Sharing","Udostępnianie listy życzeń",module,Magento_Wishlist
+"Wish List Sharing","Udostępnianie schowka",module,Magento_Wishlist
 "My Wish List","Moja lista życzeń",module,Magento_Wishlist
 "Page not found.","Nie znaleziono strony.",module,Magento_Wishlist
 "We can't specify a product.","Nie możemy określić produktu.",module,Magento_Wishlist
@@ -5576,7 +5576,7 @@ Back,Powrót,module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Sprawdź tutaj żeby podlinkować RSS do swojej listy życzeń.",module,Magento_Wishlist
 "Last Added Items","Ostatnio dodane produkty",module,Magento_Wishlist
 "Remove This Item","Usuń ten element",module,Magento_Wishlist
-"Go to Wish List","Przejdź do listy życzeń",module,Magento_Wishlist
+"Go to Wish List","Przejdź do schowka",module,Magento_Wishlist
 "You have no items in your wish list.","Nie masz żadnych produktów w schowku.",module,Magento_Wishlist
 "Are you sure you want to remove this product from your Wish List?","Czy na pewno chcesz usunąć wszystkie przedmioty ze schowka?",module,Magento_Wishlist
 "Now Shopping by","Kupuj przez",theme,frontend/Magento/luma
@@ -5655,7 +5655,7 @@ Password:,Hasło:,module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie niezmienione.",module,Magento_User
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name chce się z tobą podzielić tą listą życzeń z %store_name:",module,Magento_Wishlist
 "Message from %customer_name:","Wiadomość od %customer_name:",module,Magento_Wishlist
-"View all Wish List items","Zobacz wszystkie elementy listy życzeń",module,Magento_Wishlist
+"View all Wish List items","Zobacz wszystkie elementy",module,Magento_Wishlist
 "Welcome to %store_name.","Witamy w %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Aby zalogować się na naszej stronie, Użyj tych poświadczeń podczas realizacji zamówienia lub na stronie <a href=""%customer_url"">Moje konto</a>:",theme,frontend/Magento/luma
 Email:,E-mail:,theme,frontend/Magento/luma
