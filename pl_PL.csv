@@ -1885,7 +1885,7 @@ Customers,Klienci,module,Magento_Customer
 "Edit Group","Edytuj grupę",module,Magento_Customer
 "Edit Customer Groups","Edycja grup klientów",module,Magento_Customer
 "You saved the customer group.","Zapisałeś grupę klientów.",module,Magento_Customer
-"Please select customer(s).","Prosimy wybrać klienta(ów).",module,Magento_Customer
+"Please select customer(s).","Wybierz klientów.",module,Magento_Customer
 "Customer could not be deleted.","Nie można usunąć klienta.",module,Magento_Customer
 "You deleted the customer.","Usunąłeś klienta.",module,Magento_Customer
 "Something went wrong while editing the customer.","Coś poszło nie tak podczas edycji klienta.",module,Magento_Customer
@@ -3618,7 +3618,7 @@ Customers,Klienci,module,Magento_Reports
 "Products in carts","Produkty w koszyku",module,Magento_Reports
 Carts,Koszyki,module,Magento_Reports
 Name,Nazwa,module,Magento_Reports
-"Wish Lists","Lista życzeń",module,Magento_Reports
+"Wish Lists",Schowki,module,Magento_Reports
 "Wish List Purchase","Lista życzeń zakupu",module,Magento_Reports
 "Wish List vs. Regular Order","Schowek względem zwykłego zamówienia",module,Magento_Reports
 "Times Deleted","Razy Usuwane",module,Magento_Reports
@@ -4004,7 +4004,7 @@ Cancel,Anuluj,module,Magento_Sales
 "Payment Method","Metoda płatności",module,Magento_Sales
 "Order Comment","Komentarz do zamówienia",module,Magento_Sales
 Coupons,Kupony,module,Magento_Sales
-"Please select a customer","Prosimy wybrać klienta",module,Magento_Sales
+"Please select a customer","Wybierz klienta",module,Magento_Sales
 "Create New Customer","Utwórz klienta",module,Magento_Sales
 "Account Information","Dane konta",module,Magento_Sales
 From,Od,module,Magento_Sales
@@ -4043,7 +4043,7 @@ Quantity,Ilość,module,Magento_Sales
 "Recently Viewed Products","Ostatnio oglądane produkty",module,Magento_Sales
 "Last Ordered Items","Ostatnio zamówione przedmioty",module,Magento_Sales
 "Recently Viewed","Ostatnio oglądane",module,Magento_Sales
-"Wish List","Lista życzeń",module,Magento_Sales
+"Wish List",Schowek,module,Magento_Sales
 "Please select a store","Prosimy wybrać sklep",module,Magento_Sales
 "Order Totals","Sumy zamówienia",module,Magento_Sales
 "Shipping Incl. Tax (%1)","Dostawa z podatkiem (%1)",module,Magento_Sales
@@ -5492,9 +5492,9 @@ All,Wszystko,module,Magento_Widget
 "Open Chooser","Otwórz selektor",module,Magento_Widget
 Apply,Zastosuj,module,Magento_Widget
 Page,Strona,module,Magento_Widget
-"Wish List","Lista życzeń",module,Magento_Wishlist
+"Wish List",Schowek,module,Magento_Wishlist
 "Wish List Sharing","Udostępnianie schowka",module,Magento_Wishlist
-"My Wish List","Moja lista życzeń",module,Magento_Wishlist
+"My Wish List","Mój schowek",module,Magento_Wishlist
 "Page not found.","Nie znaleziono strony.",module,Magento_Wishlist
 "We can't specify a product.","Nie możemy określić produktu.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","Aktualnie nie możemy dodać elementu do listy życzeń: %1.",module,Magento_Wishlist
@@ -5513,7 +5513,7 @@ Page,Strona,module,Magento_Widget
 "Please enter an email address.","Podaj adres e-mail.",module,Magento_Wishlist
 "This wish list can be shared %1 more times.","Lista może być udostępniona jeszcze %1 razy.",module,Magento_Wishlist
 "Please enter a valid email address.","Prosimy wpisać poprawny adres e-mail",module,Magento_Wishlist
-"Your wish list has been shared.","Twoja lista życzeń została udostępniona.",module,Magento_Wishlist
+"Your wish list has been shared.","Schowek został udostępniony.",module,Magento_Wishlist
 "We can't delete item from Wish List right now.","Nie można teraz usunąć produktu z listy życzeń.",module,Magento_Wishlist
 "Can't save description %1","Nie można zapisać opisu %1",module,Magento_Wishlist
 "Can't update wish list","Nie można zaktualizować listy życzeń",module,Magento_Wishlist
@@ -5569,7 +5569,7 @@ Edit,Zmień,module,Magento_Wishlist
 Product,Produkt,module,Magento_Wishlist
 "Add to Wish List","Dodaj do schowka",module,Magento_Wishlist
 Back,Powrót,module,Magento_Wishlist
-"Wish List is empty now.","Lista życzeń jest pusta.",module,Magento_Wishlist
+"Wish List is empty now.","Schowek jest pusty.",module,Magento_Wishlist
 "* Required Fields","* wymagane pola",module,Magento_Wishlist
 "Sharing Information","Współdzielone informacja",module,Magento_Wishlist
 "Email addresses, separated by commas","Adresy e-mail rozdzielane przecinkami",module,Magento_Wishlist
@@ -6923,7 +6923,7 @@ Template,Szablon,module,Magento_Sales
 Name,Nazwa,module,Magento_Sales
 Phone,Telefon,module,Magento_Sales
 "ZIP/Post Code","Kod pocztowy",module,Magento_Sales
-"Signed-up Point","Punkt podpisania",module,Magento_Sales
+"Signed-up Point","Miejsce rejestracji",module,Magento_Sales
 Website,Witryna,module,Magento_Sales
 order-header,"nagłówek zamówienia",module,Magento_Sales
 "Bill-to Name","Rachunek na",module,Magento_Sales
