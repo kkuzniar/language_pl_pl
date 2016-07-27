@@ -350,7 +350,7 @@ Country,Kraj,module,Magento_Braintree
 "Delete Credit Card","Usuń kartę kredytową",module,Magento_Braintree
 "Credit card successfully deleted","Pomyślnie usunięto kartę kredytową",module,Magento_Braintree
 "Edit Credit Card","Edytuj kartę kredytową",module,Magento_Braintree
-"My Credit Cards","Moje karty kredytowe",module,Magento_Braintree
+"My Credit Cards","Karty kredytowe",module,Magento_Braintree
 "There was error during saving card data","Wystąpił błąd podczas zapisywania danych karty",module,Magento_Braintree
 "Transaction declined by gateway: Check card details or try another card","Transakcja została odrzucona przez bramkę płatności: Sprawdź poprawność danych lub użyj innej karty",module,Magento_Braintree
 "Credit card type is not allowed for your country.","Ten rodzaj karty kredytowej nie jest dozwolony dla Twojego kraju.",module,Magento_Braintree
@@ -1212,7 +1212,7 @@ Download,Pobierz,module,Magento_Customer
 "Would you like to change the Customer Group for this order?","Czy chces zmienić grupę klientów dla tego zamówienia?",module,Magento_Customer
 "The VAT ID is valid. The current Customer Group will be used.","Numer VAT jest poprawny. Aktualna grupa klientów zostanie użyta.",module,Magento_Customer
 "Validate VAT Number","Sprawdza poprawność numeru VAT",module,Magento_Customer
-"Customer Login","Login klienta",module,Magento_Customer
+"Customer Login",Logowanie,module,Magento_Customer
 "Create New Customer Account","Utwórz nowe konto klienta",module,Magento_Customer
 "Date of Birth","Data urodzenia",module,Magento_Customer
 "Bad request.","Złe zapytanie.",module,Magento_Customer
@@ -1420,7 +1420,7 @@ Continue,Kontynuuj,module,Magento_Directory
 "All Files","Wszystkie pliki",module,Magento_Downloadable
 Unlimited,Nielimitowany,module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Coś się zepsuło podczas uzyskiwania żądanej zawartości.",module,Magento_Downloadable
-"My Downloadable Products","Moje produkty do pobrania",module,Magento_Downloadable
+"My Downloadable Products","Produkty do pobrania",module,Magento_Downloadable
 "We can't find the link you requested.","Nie możemy znaleźć linka którego zażądałeś.",module,Magento_Downloadable
 "The link has expired.","Link utracił ważność.",module,Magento_Downloadable
 "The link is not available.","Link jest niedostępny.",module,Magento_Downloadable
@@ -1454,7 +1454,7 @@ Samples,Przykłady,module,Magento_Downloadable
 Availability,Dostępność,module,Magento_Downloadable
 "In stock","W magazynie",module,Magento_Downloadable
 "Out of stock","Brak w magazynie",module,Magento_Downloadable
-"Go to <a href=""%1"">My Downloadable Products</a>","Przejdź do <a href=""%1""> Moje produkty do pobrania</a>",module,Magento_Downloadable
+"Go to <a href=""%1"">My Downloadable Products</a>","Przejdź do <a href=""%1"">Produkty do pobrania</a>",module,Magento_Downloadable
 "Downloadable Products","Produkty do pobrania",module,Magento_Downloadable
 "Order #","Zamówienie #",module,Magento_Downloadable
 Date,Data,module,Magento_Downloadable
@@ -2582,7 +2582,7 @@ Reviews,Opinie,module,Magento_Review
 "You deleted the rating.","Możesz usunąć ocenę.",module,Magento_Review
 Ratings,Oceny,module,Magento_Review
 "You saved the rating.","Zapisano ocenę.",module,Magento_Review
-"My Product Reviews","Moje opinie do produktów",module,Magento_Review
+"My Product Reviews","Opinie produktów",module,Magento_Review
 "Storage key was not set","Nie został ustawiony klucz pamięci",module,Magento_Review
 Approved,Zatwierdzony,module,Magento_Review
 Pending,Oczekujący,module,Magento_Review
@@ -2927,7 +2927,7 @@ Value,Wartość,module,Magento_Sales
 "Back to My Orders","Powrót do moich zamówień",module,Magento_Sales
 "View Another Order","Zobacz inne zamówienie",module,Magento_Sales
 "About Your Refund","O twoim zwrocie",module,Magento_Sales
-"My Orders","Moje zamówienia",module,Magento_Sales
+"My Orders",Zamówienia,module,Magento_Sales
 "Subscribe to Order Status","Subskrybuj status zamówienia",module,Magento_Sales
 "About Your Invoice","O twojej fakturze",module,Magento_Sales
 "Print Order # %1","Wydrukuj zamówienie nr %1",module,Magento_Sales
@@ -3869,7 +3869,7 @@ Apply,Zastosuj,module,Magento_Widget
 Page,Strona,module,Magento_Widget
 "Wish List",Schowek,module,Magento_Wishlist
 "Wish List Sharing","Udostępnianie schowka",module,Magento_Wishlist
-"My Wish List","Mój schowek",module,Magento_Wishlist
+"My Wish List",Schowek,module,Magento_Wishlist
 "%1's Wish List","Schowek %1",module,Magento_Wishlist
 "You added %1 to your shopping cart.","Dodałeś %1 do koszyka.",module,Magento_Wishlist
 "This product(s) is out of stock.","Ten produkt jest niedostępny na magazynie.",module,Magento_Wishlist
