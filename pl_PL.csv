@@ -1460,8 +1460,8 @@ Submit,Wyślij,module,Magento_Contact
 "Invalid domain name: %1","Nieprawidłowa nazwa domeny: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","Nieprawidłowy czas trwania ciasteczka: %1",module,Magento_Cookie
 "Invalid cookie path","Nieprawidłowa ścieżka cookie",module,Magento_Cookie
-"We use cookies to make your experience better.","Używamy cookies aby poprawić fukncjonowanie.",module,Magento_Cookie
-"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Zgodnie z nową dyrektywą e-Privacy, musimy zapytać o Twoją zgodę na ustawianie plików ciasteczek.",module,Magento_Cookie
+"We use cookies to make your experience better.","Używamy cookies aby ułatwić korzystanie ze sklepu.",module,Magento_Cookie
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Zgodnie z dyrektywą dotyczącą prywatności w sieci, musimy zapytać o Twoją zgodę na zapisywanie plików cookies.",module,Magento_Cookie
 "<a href=""%1"">Learn more</a>.","<a href=""%1""> Dowiedz się więcej</a>.",module,Magento_Cookie
 "Allow Cookies","Zezwalaj na pliki cookie",module,Magento_Cookie
 Daily,Codziennie,module,Magento_Cron
