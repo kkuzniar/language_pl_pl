@@ -1553,7 +1553,7 @@ Never,Nigdy,module,Magento_Customer
 "Deleted Stores","Usunięte sklepy",module,Magento_Customer
 "Add Locale","Dodawanie ustawień regionalnych",module,Magento_Customer
 "Add Date","Dodaj datę",module,Magento_Customer
-"Days in Wish List","Dni w liście życzeń",module,Magento_Customer
+"Days in Wish List","Dni na liście życzeń",module,Magento_Customer
 No,Nie,module,Magento_Customer
 Yes,Tak,module,Magento_Customer
 "Delete File","Usuń plik",module,Magento_Customer
@@ -3259,9 +3259,9 @@ Customers,Klienci,module,Magento_Reports
 "Products in carts","Produkty w koszyku",module,Magento_Reports
 Carts,Koszyki,module,Magento_Reports
 Name,Nazwa,module,Magento_Reports
-"Wish Lists",Schowki,module,Magento_Reports
+"Wish Lists","Listy życzeń",module,Magento_Reports
 "Wish List Purchase","Lista życzeń zakupu",module,Magento_Reports
-"Wish List vs. Regular Order","Schowek względem zwykłego zamówienia",module,Magento_Reports
+"Wish List vs. Regular Order","Lista życzeń względem zwykłego zamówienia",module,Magento_Reports
 "Times Deleted","Razy Usuwane",module,Magento_Reports
 "Index type is not valid","Typ indeksu nie jest prawidłowa",module,Magento_Reports
 Reports,Raporty,module,Magento_Reports
@@ -3321,7 +3321,7 @@ Error,Błąd,module,Magento_Reports
 "Add to Cart","Dodaj do koszyka",module,Magento_Reports
 "In stock","W magazynie",module,Magento_Reports
 "Out of stock","Brak w magazynie",module,Magento_Reports
-"Add to Wish List","Dodaj do schowka",module,Magento_Reports
+"Add to Wish List","Dodaj do listy życzeń",module,Magento_Reports
 "Add to Compare",Porównaj,module,Magento_Reports
 "Recently Compared","Ostatnio porównywane",module,Magento_Reports
 "Learn More","Dowiedz się więcej",module,Magento_Reports
@@ -3670,7 +3670,7 @@ Quantity,Ilość,module,Magento_Sales
 "Recently Viewed Products","Ostatnio oglądane produkty",module,Magento_Sales
 "Last Ordered Items","Ostatnio zamówione przedmioty",module,Magento_Sales
 "Recently Viewed","Ostatnio oglądane",module,Magento_Sales
-"Wish List",Schowek,module,Magento_Sales
+"Wish List","Lista życzeń",module,Magento_Sales
 "Please select a store","Prosimy wybrać sklep",module,Magento_Sales
 "Order Totals","Sumy zamówienia",module,Magento_Sales
 "Shipping Incl. Tax (%1)","Dostawa z podatkiem (%1)",module,Magento_Sales
@@ -5030,10 +5030,10 @@ All,Wszystko,module,Magento_Widget
 "Open Chooser","Otwórz selektor",module,Magento_Widget
 Apply,Zastosuj,module,Magento_Widget
 Page,Strona,module,Magento_Widget
-"Wish List",Schowek,module,Magento_Wishlist
-"Wish List Sharing","Udostępnianie schowka",module,Magento_Wishlist
-"My Wish List",Schowek,module,Magento_Wishlist
-"%1's Wish List","Schowek %1",module,Magento_Wishlist
+"Wish List","Lista życzeń",module,Magento_Wishlist
+"Wish List Sharing","Udostępnianie listy życzeń",module,Magento_Wishlist
+"My Wish List","Moja lista życzeń",module,Magento_Wishlist
+"%1's Wish List","Lista życzeń %1",module,Magento_Wishlist
 "Page not found.","Nie znaleziono strony.",module,Magento_Wishlist
 "You added %1 to your shopping cart.","Dodałeś %1 do koszyka.",module,Magento_Wishlist
 "This product(s) is out of stock.","Ten produkt jest niedostępny na magazynie.",module,Magento_Wishlist
@@ -5047,7 +5047,7 @@ Page,Strona,module,Magento_Widget
 "%1 items","%1 elementów",module,Magento_Wishlist
 "1 item","1 element",module,Magento_Wishlist
 Comment,Komentarz,module,Magento_Wishlist
-"Display number of items in wish list","Wyświetl ilość elementów na liście życzeń",module,Magento_Wishlist
+"Display number of items in wish list","Wyświetl liczbę elementów na liście życzeń",module,Magento_Wishlist
 "Display item quantities","Wyświetlaj ilości produktów",module,Magento_Wishlist
 "An item option with code %1 already exists.","Opcja produktu z kodem %1 już istnieje.",module,Magento_Wishlist
 "Cannot specify product.","Nie można ustalić produktu.",module,Magento_Wishlist
@@ -5068,7 +5068,7 @@ error-message,"komunikat o błędzie",module,Magento_Wishlist
 "Share Wish List","Podziel się listą życzeń",module,Magento_Wishlist
 "Add All to Cart","Dodaj wszystko do koszyka",module,Magento_Wishlist
 "Update Wish List","Aktualizacja listy życzeń",module,Magento_Wishlist
-"Move to Wishlist","Przenieś do schowka",module,Magento_Wishlist
+"Move to Wishlist","Przenieś do listy życzeń",module,Magento_Wishlist
 "View Product","Zobacz produkt",module,Magento_Wishlist
 Qty,Ilość,module,Magento_Wishlist
 "Add to Cart","Dodaj do koszyka",module,Magento_Wishlist
@@ -5079,23 +5079,23 @@ Edit,Zmień,module,Magento_Wishlist
 "Remove Item","Usuń produkt",module,Magento_Wishlist
 "Remove item","Usuń produkt",module,Magento_Wishlist
 "Add to Compare",Porównaj,module,Magento_Wishlist
-"This Wish List has no Items","Ten schowek nie zawiera żadnych produktów",module,Magento_Wishlist
+"This Wish List has no Items","Ta lista życzeń nie zawiera żadnych produktów",module,Magento_Wishlist
 "See Details","Zobacz szczegóły",module,Magento_Wishlist
 "Options Details","Szczegóły opcji",module,Magento_Wishlist
-"RSS link to %1's wishlist","Link RSS do schowka %1",module,Magento_Wishlist
+"RSS link to %1's wishlist","Link RSS do listy życzeń %1",module,Magento_Wishlist
 "RSS Feed","Kanał RSS",module,Magento_Wishlist
 Product,Produkt,module,Magento_Wishlist
-"Add to Wish List","Dodaj do schowka",module,Magento_Wishlist
+"Add to Wish List","Dodaj do listy życzeń",module,Magento_Wishlist
 Back,Powrót,module,Magento_Wishlist
-"Wish List is empty now.","Schowek jest pusty.",module,Magento_Wishlist
+"Wish List is empty now.","Lista życzeń jest pusta.",module,Magento_Wishlist
 "* Required Fields","* pola wymagane",module,Magento_Wishlist
 "Sharing Information","Współdzielone informacja",module,Magento_Wishlist
 "Email addresses, separated by commas","Adresy e-mail rozdzielane przecinkami",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Sprawdź tutaj żeby podlinkować RSS do swojej listy życzeń.",module,Magento_Wishlist
 "Last Added Items","Ostatnio dodane produkty",module,Magento_Wishlist
 "Remove This Item","Usuń ten element",module,Magento_Wishlist
-"Go to Wish List","Przejdź do schowka",module,Magento_Wishlist
-"You have no items in your wish list.","Nie masz żadnych produktów w schowku.",module,Magento_Wishlist
+"Go to Wish List","Przejdź do listy życzeń",module,Magento_Wishlist
+"You have no items in your wish list.","Nie masz żadnych produktów na liście życzeń.",module,Magento_Wishlist
 "Now Shopping by","Kupuj przez",theme,frontend/Magento/luma
 Previous,Wstecz,theme,frontend/Magento/luma
 Remove,Usuń,theme,frontend/Magento/luma
@@ -5168,7 +5168,7 @@ Password:,Hasło:,module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie niezmienione.",module,Magento_User
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name chce się z tobą podzielić tą listą życzeń z %store_name:",module,Magento_Wishlist
 "Message from %customer_name:","Wiadomość od %customer_name:",module,Magento_Wishlist
-"View all Wish List items","Zobacz wszystkie elementy",module,Magento_Wishlist
+"View all Wish List items","Zobacz wszystkie elementy listy życzeń",module,Magento_Wishlist
 "Welcome to %store_name.","Witamy w %store_name.",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Aby zalogować się na naszej stronie, Użyj tych poświadczeń podczas realizacji zamówienia lub na stronie <a href=""%customer_url"">Moje konto</a>:",theme,frontend/Magento/luma
 Email:,E-mail:,theme,frontend/Magento/luma
