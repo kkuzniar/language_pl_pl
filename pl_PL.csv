@@ -829,7 +829,7 @@ Disabled,Wyłączone,module,Magento_Catalog
 Search,Szukaj,module,Magento_Catalog
 "Catalog, Search","Katalog, wyszukiwanie",module,Magento_Catalog
 "A product type is not defined for the indexer.","Typ produktu nie jest zdefiniowany dla indeksowania.",module,Magento_Catalog
-"Multiple Select","Wiielokrotny wybór",module,Magento_Catalog
+"Multiple Select","Wielokrotny wybór",module,Magento_Catalog
 Dropdown,"Lista rozwijana",module,Magento_Catalog
 "Are you sure you want to delete this category?","Czy na pewno usunąć tę kategorię?",module,Magento_Catalog
 "Set root category for this store in the <a href=""%1"">configuration</a>.","Wybierz kategorię bazową dla tego sklepu w <a href=""%1"">konfiguracji</a>.",module,Magento_Catalog
@@ -1496,7 +1496,7 @@ Letters,Litery,module,Magento_Eav
 "Text Area","Pole typu textarea",module,Magento_Eav
 Date,Data,module,Magento_Eav
 Yes/No,Tak/Nie,module,Magento_Eav
-"Multiple Select","Wiielokrotny wybór",module,Magento_Eav
+"Multiple Select","Wielokrotny wybór",module,Magento_Eav
 Dropdown,"Lista rozwijana",module,Magento_Eav
 "Input type ""%value%"" not found in the input types list.","Pole typu %value%"" nie zostało odnalezione na liście typów pól.""",module,Magento_Eav
 "Attribute object is undefined","Obiekt cechy jest niezdefiniowany",module,Magento_Eav
