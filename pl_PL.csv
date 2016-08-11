@@ -975,7 +975,7 @@ Search,Szukaj,module,Magento_Catalog
 "Could not save product ""%1"" with websites %2","Nie można zapisać produktu ""%1"" ze stroną %2",module,Magento_Catalog
 "Do not change the scope. %1","Nie zmieniaj zakresu. %1",module,Magento_Catalog
 "A product type is not defined for the indexer.","Typ produktu nie jest zdefiniowany dla indeksowania.",module,Magento_Catalog
-"Multiple Select","Wiielokrotny wybór",module,Magento_Catalog
+"Multiple Select","Wielokrotny wybór",module,Magento_Catalog
 Dropdown,"Lista rozwijana",module,Magento_Catalog
 "As low as","Już od",module,Magento_Catalog
 message,wiadomość,module,Magento_Catalog
@@ -1993,7 +1993,7 @@ Letters,Litery,module,Magento_Eav
 "Text Area","Pole typu textarea",module,Magento_Eav
 Date,Data,module,Magento_Eav
 Yes/No,Tak/Nie,module,Magento_Eav
-"Multiple Select","Wiielokrotny wybór",module,Magento_Eav
+"Multiple Select","Wielokrotny wybór",module,Magento_Eav
 Dropdown,"Lista rozwijana",module,Magento_Eav
 "Input type ""%value%"" not found in the input types list.","Pole typu %value%"" nie zostało odnalezione na liście typów pól.""",module,Magento_Eav
 "Attribute object is undefined","Obiekt cechy jest niezdefiniowany",module,Magento_Eav
