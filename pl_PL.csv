@@ -700,6 +700,8 @@ Relevance,Znaczenie,module,Magento_CatalogSearch
 "up to %1","do %1",module,Magento_CatalogSearch
 Category,Kategoria,module,Magento_CatalogSearch
 "%1 and above","%1 i więcej",module,Magento_CatalogSearch
+"Sorry, something went wrong. You can find out more in the error log.","Niestety operacja się nie powiodła. Możesz znaleźć więcej informacji w logach.",module,Magento_CatalogSearch
+"Bucket does not exist","Kontener (bucket) nie istnieje",module,Magento_CatalogSearch
 Product,Produkt,module,Magento_CatalogSearch
 "Search Settings","Ustawienia wyszukiwania",module,Magento_CatalogSearch
 Search,Szukaj,module,Magento_CatalogSearch
@@ -1613,10 +1615,13 @@ Summary,Podsumowanie,module,Magento_ConfigurableProduct
 "Configuration must have specified attributes","Konfiguracja musi mieć określone atrybuty",module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set","Wybierz zestaw atrybutów",module,Magento_ConfigurableProduct
 Confirm,Potwierdź,module,Magento_ConfigurableProduct
+"New Attribute Set Name","Nazwa nowego zestawu cech",module,Magento_ConfigurableProduct
 "Select Associated Product","Wybierz produkt powiązany",module,Magento_ConfigurableProduct
 Done,Gotowe,module,Magento_ConfigurableProduct
+"Choose a new product to delete and replace the current product configuration.","Wybierz nowy produkt, aby usunąć i zastąpić bieżącą konfigurację produktu.",module,Magento_ConfigurableProduct
 "For better results, add attributes and attribute values to your products.","Na lepsze wyniki dodaj atrybuty i wartości atrybutu do swoich produktów.",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Produkty konfigurowalne pozwalają klientom na wybranie produktu w określonej konfiguracji (np. konkretnego koloru koszulki). Każda konfiguracja (np. każdy kolor koszulki) wymaga stworzenia odrębnego produktu prostego.",module,Magento_ConfigurableProduct
+"Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Konfiguracji nie można utworzyć dla standardowego produktu z plikami do pobrania. Aby utworzyć konfiguracje, należy najpierw usunąć wszystkie pliki do pobrania.",module,Magento_ConfigurableProduct
 "Add Products Manually","Dodaj produkty ręcznie",module,Magento_ConfigurableProduct
 "Create Configurations","Utwórz konfigurację",module,Magento_ConfigurableProduct
 "Current Variations","Aktualne zmiany",module,Magento_ConfigurableProduct
@@ -1627,6 +1632,7 @@ Quantity,Ilość,module,Magento_ConfigurableProduct
 Weight,Waga,module,Magento_ConfigurableProduct
 Attributes,Cechy,module,Magento_ConfigurableProduct
 Actions,Operacje,module,Magento_ConfigurableProduct
+"Custom options with price type ""percent"" is not available for configurable product.","Niestandardowe opcje z ceną typu ""procent"" nie są dostępne dla konfigurowalnego produktu.",module,Magento_ConfigurableProduct
 "This group contains attributes used in configurable products. Please move these attributes to another group and try again.","Ta grupa zawiera cechy użyte w produktach konfigurowalnych. Przenieś te cechy do innej grupy i ponów próbę.",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products. You cannot remove it from the attribute set.","Ta cecha jest używana w konfigurowalnych produktach. Nie możesz usunąć jej z zestawu cech.",module,Magento_ConfigurableProduct
 "Associated Products","Produkty składowe konfiguracji",module,Magento_ConfigurableProduct
@@ -5924,6 +5930,7 @@ Shipping,Dostawa,module,Magento_Checkout
 "Save Address","Zapisz adres",module,Magento_Checkout
 "We could not detect a size.","Nie można wykryć rozmiaru.",module,Magento_Cms
 "New Product Review","Nowa opinia produktu",module,Magento_ConfigurableProduct
+"Here are the products you're about to create.","Oto produkty, które zamierzasz utworzyć.",module,Magento_ConfigurableProduct
 "You created these products for this configuration.","Te produkty zostały stworzone dla tej konfiguracji.",module,Magento_ConfigurableProduct
 "Disassociated Products","Produkty składowe konfiguracji",module,Magento_ConfigurableProduct
 "These products are not associated.","Produkty te nie są powiązane.",module,Magento_ConfigurableProduct
@@ -5941,6 +5948,7 @@ Shipping,Dostawa,module,Magento_Checkout
 "We don't recognize or support this file extension type.","Nie możemy rozpoznać lub obsługiwać tego typu rozszerzenia pliku.",module,Magento_ConfigurableProduct
 "Please select attribute(s).","Proszę wybrać atrybuty.",module,Magento_ConfigurableProduct
 "Generate Products","Generuj produkty",module,Magento_ConfigurableProduct
+"Something went wrong.","Coś poszło nie tak.",module,Magento_ConfigurableProduct
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Customer
 "Are you sure you want to delete this address?","Czy na pewno chcesz usunąć ten adres?",module,Magento_Customer
 Weak,Słaby,module,Magento_Customer
