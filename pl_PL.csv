@@ -1715,6 +1715,7 @@ Monthly,"Co miesiąc",module,Magento_Cron
 "Invalid cron expression, expecting 'from-to' structure: %1","Nieprawidłowe wyrażenie cron, spodziewana struktura 'od-do': %1",module,Magento_Cron
 "Save Currency Rates","Zapisz kursy walut",module,Magento_CurrencySymbol
 Reset,Resetuj,module,Magento_CurrencySymbol
+Import,Importuj,module,Magento_CurrencySymbol
 "Manage Currency Rates","Zarządzaj kursami walut",module,Magento_CurrencySymbol
 "Import Service","Usługa importu",module,Magento_CurrencySymbol
 "Save Currency Symbols","Zapisz symbole walut",module,Magento_CurrencySymbol
