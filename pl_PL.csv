@@ -611,7 +611,9 @@ Always,Zawsze,module,Magento_Captcha
 "Unable to remove Stock Item with id ""%1""","Nie można usunąć produktu o id ""%1""",module,Magento_CatalogInventory
 "Unable to save Stock","Nie można zapisać stanu magazynowego",module,Magento_CatalogInventory
 "Stock with id ""%1"" does not exist.","Magazyn o identyfikatorze ""%1"" nie istnieje.",module,Magento_CatalogInventory
+"Unable to remove Stock with id ""%1""","Nie można usunąć stanu o identyfikatorze ""%1""",module,Magento_CatalogInventory
 "Unable to save Stock Status","Nie można zapisać stanu magazynowego",module,Magento_CatalogInventory
+"Unable to remove Stock Status for product %1","Nie można usunąć stanu magazynowego dla produktu %1",module,Magento_CatalogInventory
 "Not all of your products are available in the requested quantity.","Nie wszystkie produkty są dostępne w żądanej ilości.",module,Magento_CatalogInventory
 "Product with SKU ""%1"" does not exist","Produkt z SKU ""%1"" nie istnieje",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","Najmniej, ile możesz zakupić to %1.",module,Magento_CatalogInventory
@@ -1710,6 +1712,7 @@ Monthly,"Co miesiąc",module,Magento_Cron
 "Save Currency Rates","Zapisz kursy walut",module,Magento_CurrencySymbol
 Options,Opcje,module,Magento_CurrencySymbol
 Reset,Resetuj,module,Magento_CurrencySymbol
+Import,Importuj,module,Magento_CurrencySymbol
 "Manage Currency Rates","Zarządzaj kursami walut",module,Magento_CurrencySymbol
 "Import Service","Usługa importu",module,Magento_CurrencySymbol
 "Save Currency Symbols","Zapisz symbole walut",module,Magento_CurrencySymbol
@@ -5690,6 +5693,7 @@ Remove,Usuń,theme,frontend/Magento/luma
 "Save for later use.","Zapisz do późniejszego wykorzystania.",module,Magento_Braintree
 "Place Order","Złóż zamówienie",module,Magento_Braintree
 "Attention: Captcha is case sensitive.","Uwaga: Captcha rozróżnia wielkość liter.",module,Magento_Captcha
+"Payment Transaction Failed Reminder","Przypomnienie o nieudanej płatności",module,Magento_Checkout
 "Payment Transaction Failed","Płatność nie powiodła się",module,Magento_Checkout
 Reason,Powód,module,Magento_Checkout
 "Checkout Type","Typ transakcji",module,Magento_Checkout
@@ -6344,6 +6348,7 @@ Stock,Zapasy,module,Magento_CatalogInventory
 "Use Config Settings","Używaj ustawienia z konfiguracji",module,Magento_CatalogInventory
 "Qty Uses Decimals","Ilość używa wartości dziesiętnych",module,Magento_CatalogInventory
 "Allow Multiple Boxes for Shipping","Zezwól na dzielenie wysyłki",module,Magento_CatalogInventory
+"Use Deferred Stock Update","Użyj opóźnionych aktualizacji zapasów",module,Magento_CatalogInventory
 "Catalog Rule Product","Produkt reguły katalogu",module,Magento_CatalogRule
 "Indexed rule/product association","Indeksowane powiązanie reguła/produkt",module,Magento_CatalogRule
 "Catalog Product Rule","Reguła produktu katalogu",module,Magento_CatalogRule
