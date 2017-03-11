@@ -5911,6 +5911,11 @@ Allow,Zezwól,module,Magento_Integration
 Done,Gotowe,module,Magento_Integration
 "We can't complete your order because you don't have a payment method set up.","Nie możemy dokończyć zamówienia ponieważ nie masz ustawionej metody płatności.",module,Magento_Multishipping
 "Please choose a payment method.","Wybierz metodę płatności.",module,Magento_Multishipping
+"Please enter a valid credit card type number.","Proszę podać poprawny numer karty kredytowej.",module,Magento_Payment
+"Please enter a valid credit card number.","Prosimy o wprowadzenie poprawnego numeru karty kredytowej.",module,Magento_Payment
+"Incorrect credit card expiration month.","Niepoprawny miesiąc wygaśnięcia karty kredytowej.",module,Magento_Payment
+"Incorrect credit card expiration year.","Niepoprawny rok wygaśnięcia karty kredytowej.",module,Magento_Payment
+"An error occurred on the server. Please try to place the order again.","Wystąpił błąd z serwerem. Spróbuj ponownie złożyć zamówienie.",module,Magento_Payment
 "Sorry, something went wrong.","Przepraszamy coś poszło nie tak.",module,Magento_Paypal
 "Sorry, something went wrong. Please try again later.","Przepraszamy coś poszło nie tak. Prosimy spróbować ponownie później.",module,Magento_Paypal
 "Video Error","Błąd wideo",module,Magento_ProductVideo
