@@ -2726,7 +2726,7 @@ Discount,Zniżka,module,Magento_SalesRule
 "No Coupon",Nie,module,Magento_SalesRule
 "Specific Coupon","Wybrany kupon",module,Magento_SalesRule
 "Update the Product","Aktualizuj produkt",module,Magento_SalesRule
-"Special Price","Nasza cena",module,Magento_SalesRule
+"Special Price","Cena promocyjna",module,Magento_SalesRule
 "To Fixed Value","Do stałej wartości",module,Magento_SalesRule
 "To Percentage","Do wartości procentowej",module,Magento_SalesRule
 "By Fixed value","O stałą wartość",module,Magento_SalesRule
