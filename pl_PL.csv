@@ -1245,7 +1245,7 @@ Actions,Operacje,module,Magento_Catalog
 "Unselect All","Odznacz wszystko",module,Magento_Catalog
 "Select Visible","Zaznacz widoczne",module,Magento_Catalog
 "Unselect Visible","Odznacz widoczne",module,Magento_Catalog
-"Special Price","Nasza cena",module,Magento_Catalog
+"Special Price","Cena promocyjna",module,Magento_Catalog
 "Regular Price","Normalna cena",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Kup %1 po %2 za każdy i <strong class=""benefit"">zaoszczędź<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Kup %1 dla %2 poszczególnych",module,Magento_Catalog
@@ -3941,7 +3941,7 @@ Discount,Zniżka,module,Magento_SalesRule
 "Specific Coupon","Wybrany kupon",module,Magento_SalesRule
 "Can't acquire coupon.","Nie można pobrać kuponu.",module,Magento_SalesRule
 "Update the Product","Aktualizuj produkt",module,Magento_SalesRule
-"Special Price","Nasza cena",module,Magento_SalesRule
+"Special Price","Cena promocyjna",module,Magento_SalesRule
 "To Fixed Value","Do stałej wartości",module,Magento_SalesRule
 "To Percentage","Do wartości procentowej",module,Magento_SalesRule
 "By Fixed value","O stałą wartość",module,Magento_SalesRule
