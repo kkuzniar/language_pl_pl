@@ -476,6 +476,7 @@ Delete,Usuń,module,Magento_Bundle
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Dziecko z określonym sku: ""%1"" już przypisane do produktu: ""%2""",module,Magento_Bundle
 "Product with specified sku: %1 is not a bundle product","Produkt o sku: %1 nie jest pakietem produktów",module,Magento_Bundle
 "Requested bundle option product doesn't exist","Żądany pakiet opcji produktu nie istnieje",module,Magento_Bundle
+"%fieldName is a required field.","%fieldName jest polem wymaganym.",module,Magento_Bundle
 "Requested option doesn't exist","Żądana opcja nie istnieje",module,Magento_Bundle
 "Cannot delete option with id %1","Nie można usunąć opcji z id %1",module,Magento_Bundle
 "Could not save option","Nie można zapisać opcji",module,Magento_Bundle
@@ -1706,6 +1707,7 @@ Import,Importuj,module,Magento_CurrencySymbol
 "Please correct the input data for ""%1 => %2"" rate.","Proszę poprawić dane wejściowe dla kursu ""%1 => %2"".",module,Magento_CurrencySymbol
 "All valid rates have been saved.","Wszystkie poprawne stawki zostały zapisane.",module,Magento_CurrencySymbol
 "You applied the custom currency symbols.","Zastosowano niestandardowe symbole walut.",module,Magento_CurrencySymbol
+"You must first configure currency options before being able to see currency rates.","Należy najpierw skonfigurować opcje walutowe, zanim będziesz mógł zobaczyć kursy walut.",module,Magento_CurrencySymbol
 "Old rate:","Stara stawka:",module,Magento_CurrencySymbol
 "Please specify a website.","Proszę określić stronę internetową.",module,Magento_CustomerImportExport
 "Please specify an email.","Proszę podać e-mail.",module,Magento_CustomerImportExport
@@ -3521,6 +3523,7 @@ Subtotal,"Suma częściowa",module,Magento_Quote
 "Cart %1 doesn't contain item  %2","Koszyk %1 nie zawiera produktu %2",module,Magento_Quote
 "Could not remove item from quote","Nie udało się usunąć tej pozycji z koszyka",module,Magento_Quote
 "The qty value is required to update quote item.","Wartość ilość jest wymagana do aktualizacji pozycji qty.",module,Magento_Quote
+"Minimum order amount is %1","Minimalna wielkość zamówienia to %1",module,Magento_Quote
 "Invalid customer id %1","Nieprawidłowy identyfikator klienta: %1",module,Magento_Quote
 "Invalid address id %1","Nieprawidłowy adres id %1",module,Magento_Quote
 "Cannot create quote","Nie udało się utworzyć koszyka",module,Magento_Quote
