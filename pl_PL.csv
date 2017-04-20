@@ -5678,6 +5678,7 @@ Cancel,Anuluj,module,Magento_Checkout
 Login,Logowanie,module,Magento_Checkout
 item,pozycja,module,Magento_Checkout
 items,przedmioty,module,Magento_Checkout
+"Go to Checkout","Przejdź do kasy",module,Magento_Checkout
 "See Details","Zobacz szczegóły",module,Magento_Checkout
 "Options Details","Szczegóły opcji",module,Magento_Checkout
 Remove,Usuń,module,Magento_Checkout
