@@ -3133,7 +3133,7 @@ Subtotal:,"Suma częściowa:",module,Magento_Sales
 "Move to Shopping Cart","Przenieś do koszyka",module,Magento_Sales
 "Subscribe to Newsletter","Subskrybuj newsletter",module,Magento_Sales
 "Click to change shipping method","Kliknij, aby zmienić metodę wysyłki",module,Magento_Sales
-"Sorry, no quotes are available for this order.","Przepraszamy cudzysłowie nie jest dostępne dla tego zamówienia.",module,Magento_Sales
+"Sorry, no quotes are available for this order.","Nie istnieje żaden koszyk przypisany do tego zamówienia.",module,Magento_Sales
 "Get shipping methods and rates","Pobierz sposoby dostawy i stawki",module,Magento_Sales
 Refresh,Odśwież,module,Magento_Sales
 Item,Produkt,module,Magento_Sales
