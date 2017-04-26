@@ -5702,6 +5702,7 @@ edit,Zmień,module,Magento_Checkout
 Next,Dalej,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Niestety, żadne możliwości nie są dostępne dla tego zamówienia w chwili obecnej",module,Magento_Checkout
 "Order Summary","Podsumowanie zamówienia",module,Magento_Checkout
+"Item in Cart","Produkty w koszyku",module,Magento_Checkout
 "View Details","Zobacz szczegóły",module,Magento_Checkout
 "Contact Form","Formularz kontaktowy",module,Magento_Contact
 "Name: %name","Nazwa: %name",module,Magento_Contact
