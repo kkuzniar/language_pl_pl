@@ -6711,7 +6711,7 @@ Title,Tytuł,module,Magento_Paypal
 Enabled,Włączone,module,Magento_Paypal
 "Allow in Billing Agreement Wizard","Dopuść w wizardzie umowy rozliczeniowej",module,Magento_Paypal
 "SFTP Credentials","Dane SFTP",module,Magento_Paypal
-Login,Logowanie,module,Magento_Paypal
+Login,"Zaloguj się",module,Magento_Paypal
 Password,Hasło,module,Magento_Paypal
 "Custom Endpoint Hostname or IP-Address","Niestandardowa nazwa hosta lub adres IP dla punktu końcowego",module,Magento_Paypal
 "By default it is ""reports.paypal.com"".","Domyślnie to jest reports.paypal.com"".""",module,Magento_Paypal
