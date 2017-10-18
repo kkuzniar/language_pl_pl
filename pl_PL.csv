@@ -5745,10 +5745,12 @@ Password:,Hasło:,module,Magento_Customer
 "If you requested this change, set a new password here:","Jeśli zażądałeś tej zmiany, ustaw swoje hasło tutaj:",module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie takie samo.",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","Otrzymaliśmy informację z prośbą o zmianę następujących informacji na Twoim koncie %store_name: hasło.",module,Magento_Customer
+"Checkout out as a new customer","Kontynuuj jako nowy klient",module,Magento_Customer
 "Creating an account has many benefits:","Stworzenie konta ma wiele korzyści:",module,Magento_Customer
 "See order and shipping status","Zobacz zamówienie i stan wysyłki",module,Magento_Customer
 "Track order history","Śledzenie historii zamówień",module,Magento_Customer
 "Check out faster","Zamawiaj szybciej",module,Magento_Customer
+"Checkout out using your account","Realizacji transakcji przy użyciu konta",module,Magento_Customer
 "Email Address","Adres e-mail",module,Magento_Customer
 "Currency Update Warnings","Ostrzeżenia aktualizacji waluty",module,Magento_Directory
 Footer,Stopka,module,Magento_Email
@@ -6731,6 +6733,7 @@ Currency,Waluta,module,Magento_CurrencySymbol
 "Online Minutes Interval","Długość sesji klientów",module,Magento_Customer
 "Leave empty for default (15 minutes).","Pozostaw puste dla domyślnej wartości (15 minut)",module,Magento_Customer
 "Assign a Customer Group","Przypisz grupę klientów",module,Magento_Customer
+"Are you sure to assign selected customers to new group?","Czy na pewno chcesz przypisać wybranych klientów do nowej grupy?",module,Magento_Customer
 "Customer Grid","Siatka klientów",module,Magento_Customer
 "Rebuild Customer grid index","Odbuduj indeks siatki klientów",module,Magento_Customer
 Group,Grupa,module,Magento_Customer
