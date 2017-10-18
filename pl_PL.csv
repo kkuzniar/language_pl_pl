@@ -26,7 +26,7 @@ notice,informacja,module,Magento_AdminNotification
 "Wrong notification ID specified.","Niepoprawny ID powiadomienia.",module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","Nie zaleca się używania {{base_url}} jako bazowego adresu URL w środowisku produkcyjnym. Radzimy zmianę tej wartości w <a href=""%1"">konfiguracji</a>.",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Przejdź do <a href=""%1"">strony zarządzania pamięciami podręcznymi</a> i odśwież je.",module,Magento_AdminNotification
-"We were unable to synchronize one or more media files. Please refer to the log file for details.","Nie byliśmy wstanie zsynchronizować jednego lub więcej plików multimedialnych. Zajrzyj do pliku z logami po więcej szczegółów.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","Nie byliśmy w stanie zsynchronizować jednego lub więcej plików multimedialnych. Zajrzyj do pliku z logami po więcej szczegółów.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","Ukończono synchronizację przechowalni multimediów.",module,Magento_AdminNotification
 "Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Twój serwer nie jest poprawnie skonfigurowany i pozwala na nieautoryzowany dostęp do wrażliwych plików. Skontaktuj się z dostawcą usług hostingowych.",module,Magento_AdminNotification
 "Close popup","Zamknij okno",module,Magento_AdminNotification
@@ -5806,7 +5806,7 @@ Delete,Usuń,module,Magento_ProductVideo
 "Please enter a valid zip code.","Prosimy o wprowadzenie poprawnego kodu pocztowego.",module,Magento_Ui
 "Please select State/Province.","Prosimy o wybór regionu.",module,Magento_Ui
 "Please enter issue number or start date for switch/solo card type.","Prosimy o podanie numeru wydania lub daty rozpoczęcia dla kart typu switch/solo.",module,Magento_Ui
-"This is a required field.","To pole jest wymagane.",module,Magento_Ui
+"This is a required field.","To jest wymagane pole.",module,Magento_Ui
 "Please enter positive number in this field.","Proszę podać dodatnią wartość w tym polu.",module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","Prosimy o wprowadzenie poprawnej wartości np. 10,20,30",module,Magento_Ui
 Attention,Uwaga,module,Magento_Ui
