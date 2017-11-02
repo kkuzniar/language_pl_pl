@@ -1860,7 +1860,7 @@ Download,Pobierz,module,Magento_Customer
 "Please correct the email address.","Proszę poprawić adres e-mail.",module,Magento_Customer
 "We're unable to send the password reset email.","Jesteśmy w stanie wysłać e-maila resetowania hasła.",module,Magento_Customer
 "Please enter your email.","Prosimy wpisać adres e-mail",module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Jeśli istnieje konto powiązane z %1 otrzymasz e-mail z linkiem do zresetowania hasła.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Na twój adres email wysłaliśmy link do zresetowania hasła.",module,Magento_Customer
 "My Account","Moje konto",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","To konto nie jest potwierdzone. "" ""<a href=""%1""> kliknij tutaj,</a> aby wysłać e-mail z potwierdzeniem.",module,Magento_Customer
 "Invalid login or password.","Nieprawidłowa nazwa użytkownika lub hasło.",module,Magento_Customer
@@ -2073,7 +2073,7 @@ Save,Zapisz,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Podaj swój adres e-mail poniżej, aby otrzymać link do zresetowania hasła.",module,Magento_Customer
 "Reset My Password","Zresetuj moje hasło",module,Magento_Customer
 "Registered Customers","Zarejestrowani klienci",module,Magento_Customer
-"If you have an account, sign in with your email address.","Jeśli posiadasz już konto, to możesz zalogować się przy użyciu adresu e-mail.",module,Magento_Customer
+"If you have an account, sign in with your email address.","Jeśli posiadasz już konto, możesz zalogować się przy użyciu adresu e-mail.",module,Magento_Customer
 Password,Hasło,module,Magento_Customer
 "Forgot Your Password?","Nie pamiętasz hasła?",module,Magento_Customer
 "Subscription option","Opcje subskrypcji",module,Magento_Customer
@@ -3814,7 +3814,7 @@ Reviews,Opinie,module,Magento_Review
 "You deleted the rating.","Możesz usunąć ocenę.",module,Magento_Review
 Ratings,Oceny,module,Magento_Review
 "You saved the rating.","Zapisano ocenę.",module,Magento_Review
-"My Product Reviews","Opinie produktów",module,Magento_Review
+"My Product Reviews","Moje opinie o produktach",module,Magento_Review
 "You submitted your review for moderation.","Dodano swoją recenzję do moderacji.",module,Magento_Review
 "We can't post your review right now.","W tej chili nie możemy wysłać Twojej recenzji.",module,Magento_Review
 "Storage key was not set","Nie został ustawiony klucz pamięci",module,Magento_Review
@@ -4038,6 +4038,7 @@ To,Do,module,Magento_Sales
 Message,Wiadomość,module,Magento_Sales
 "Edit Order #%1","Edycja zamówienia nr %1",module,Magento_Sales
 "Create New Order for %1 in %2","Utwórz nowe zamówienie dla %1 w %2",module,Magento_Sales
+"Create New Order in %1","Utwórz nowe zamówienie w %1",module,Magento_Sales
 "Create New Order for %1","Utwórz nowe zamówienie dla %1",module,Magento_Sales
 "Create New Order for New Customer","Utwórz nowe zamówienie dla nowego klienta",module,Magento_Sales
 "Items Ordered","Zamówione produkty",module,Magento_Sales
@@ -4299,6 +4300,7 @@ Home,"Strona główna",module,Magento_Sales
 "This payment method is not available.","Ta metoda płatności nie jest dostępna.",module,Magento_Sales
 "Validation is failed.","Weryfikacja nie powiodła się.",module,Magento_Sales
 "You did not email your customer. Please check your email settings.","Nie utworzono emalia klienta. Proszę sprawdzić ustawienia e-mail.",module,Magento_Sales
+"-- Please Select --",--Wybierz--,module,Magento_Sales
 "Path ""%1"" is not part of allowed directory ""%2""","Ścieżka ""%1"" nie jest częścią dozwolonych katalogu ""%2""",module,Magento_Sales
 "Identifying Fields required","Określenie pola wymagane",module,Magento_Sales
 "Id required","Wymagany identyfikator",module,Magento_Sales
@@ -4323,13 +4325,21 @@ Refunded,Zwrócone,module,Magento_Sales
 Canceled,Anulowane,module,Magento_Sales
 "Unknown State","Nieznany stan",module,Magento_Sales
 "We found an invalid quantity to refund item ""%1"".","Znaleźliśmy nieprawidłową ilość towaru do zwrotu ""%1"".",module,Magento_Sales
+"The creditmemo contains product item that is not part of the original order.","Creditmemo zawiera element produktu, który nie jest częścią oryginalnego zamówienia.",module,Magento_Sales
 "Maximum shipping amount allowed to refund is: %1","Maksymalny koszt dostawy dozwolony do zwrotu to: %1",module,Magento_Sales
+"Order Id is required for creditmemo document","Identyfikator zamówienia jest wymagany dla dokumentu creditmemo",module,Magento_Sales
+"The creditmemo contains product SKU ""%1"" that is not part of the original order.","Creditmemo zawiera produkt SKU ""%1"" czyli nie jest częścią oryginalnego zamówienia.",module,Magento_Sales
+"You can't create a creditmemo without products.","Nie można utworzyć creditmemo bez produktów.",module,Magento_Sales
 "The most money available to refund is %1.","Większość pieniędzy do zwrotu to %1.",module,Magento_Sales
 "Could not delete credit memo","Nie można usunąć faktury korygującej",module,Magento_Sales
 "Could not save credit memo","Nie można zapisać faktury korygującej",module,Magento_Sales
 "This order already has associated customer account","To zamówienie już zostało skojarzone z konte klienta",module,Magento_Sales
 Paid,Zapłacono,module,Magento_Sales
 "We cannot register an existing invoice","Nie można zarejestrować istniejącej faktury",module,Magento_Sales
+"We can't create creditmemo for the invoice.","Nie możemy stworzyć creditmemo dla faktury.",module,Magento_Sales
+"Order Id is required for invoice document","Identyfikator zamówienia jest wymagane dla dokumentu faktury",module,Magento_Sales
+"The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1"".","Ilość do zafakturowania nie może być większa niż niezafakturowana ilość produktu SKU ""%1"".",module,Magento_Sales
+"The invoice contains one or more items that are not part of the original order.","Faktura zawiera jeden lub więcej elementów, które nie są częścią oryginalnego zamówienia.",module,Magento_Sales
 "ID required","Wymagany identyfikator",module,Magento_Sales
 "Unknown Status","Nieznany status",module,Magento_Sales
 Ordered,Zamówione,module,Magento_Sales
@@ -4400,12 +4410,17 @@ Tax,Podatek,module,Magento_Sales
 title,tytuł,module,Magento_Sales
 "The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.","%1 całkowity wzór PDF musi znajdować się albo rozszerzyć po \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.",module,Magento_Sales
 "We cannot register an existing shipment","Nie można zarejestrować istniejącej wysyłki",module,Magento_Sales
+"Order Id is required for shipment document","Identyfikator zamówienia jest wymagany dla dokumentu dostawy",module,Magento_Sales
+"You can't create a shipment without products.","Nie można utworzyć przesyłki bez produktów.",module,Magento_Sales
+"The shipment contains product SKU ""%1"" that is not part of the original order.","Przesyłka zawiera produktu SKU ""%1"" który nie jest częścią oryginalnego zamówienia.",module,Magento_Sales
 "Please enter a tracking number.","Proszę wprowadzić kod śledzenia.",module,Magento_Sales
 "Could not delete shipment","Nie można usunąć dostawy",module,Magento_Sales
 "Could not save shipment","Nie można zapisać dostawy",module,Magento_Sales
 "The last status can't be unassigned from its current state.","Ostatni stan nie może być przypisany do jego bieżącego stanu.",module,Magento_Sales
 "Status can't be unassigned, because it is used by existing order(s).","Status nie może być nieprzypisany, ponieważ jest on używany przez istniejące zlecenia(e).",module,Magento_Sales
 "The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","Total model należy rozszerzyć z \Magento\Sales\Model\Order\Total\AbstractTotal.",module,Magento_Sales
+"An invoice cannot be created when an order has a status of %1","Nie można utworzyć faktury, gdy zamówienie ma status %1",module,Magento_Sales
+"The order does not allow a creditmemo to be created.","Zamówienie nie pozwala na utworzenie creditmemo.",module,Magento_Sales
 "Could not save a Creditmemo, see error log for details","Nie można zapisać Creditmemo, aby uzyskać szczegółowe informacje zobacz dziennik błędów",module,Magento_Sales
 "We cannot determine the field name.","Nie można określić nazwy pola.",module,Magento_Sales
 City,Miasto,module,Magento_Sales
@@ -5181,8 +5196,11 @@ Global,Globalny,module,Magento_Theme
 "Sorry, something went wrong. That's all we know.","Przepraszamy, coś poszło nie tak.",module,Magento_Theme
 "Invalid type","Nieprawidłowy typ",module,Magento_Theme
 "Invalid scope or scope id","Nieprawidłowy zakres lub jego id",module,Magento_Theme
+"%1 does not contain field '%2'","%1 nie zawiera pola '%2'",module,Magento_Theme
 "Invalid regular expression: ""%1"".","Nieprawidłowe wyrażenie regularne: ""%1"".",module,Magento_Theme
+"%1 does not contain field 'file'","%1 nie zawiera pola 'file'",module,Magento_Theme
 "Backend model is not specified for %1","Model backendu nie jest określony dla %1",module,Magento_Theme
+"The %templateName contains an incorrect configuration. The template has a reference to itself. Either remove or change the reference.","%templateName zawiera niepoprawną konfigurację. Szablon zawiera odwołanie do samego siebie. Usuń lub Zmień odwołanie.",module,Magento_Theme
 "Can not save empty config","Nie można zapisać pustej konfiguracji",module,Magento_Theme
 label,etykieta,module,Magento_Theme
 "-- Please Select --","-- Prosimy wybrać --",module,Magento_Theme
@@ -5424,6 +5442,7 @@ username,"nazwa użytkownika",module,Magento_User
 "Your password must include both numeric and alphabetic characters.","Hasło musi zawierać zarówno znaki numeryczne jak i alfabetu.",module,Magento_User
 "Your password confirmation must match your password.","Potwierdzenie twojego hasła musi być zgodne z twoim hasłem.",module,Magento_User
 "It's time to change your password.","Nadszedł czas, abyś zmienił swoje hasło.",module,Magento_User
+"It's time to <a href=""%1"">change your password</a>.","Nadszedł czas, aby <a href=""%1""> zmienił swoje hasło</a>.",module,Magento_User
 "Your password has expired; please contact your administrator.","Twoje hasło wygasło; Skontaktuj się z administratorem.",module,Magento_User
 "Password Help","Pomoc z hasłem",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Wpisz swój adres e-mail. Otrzymasz następnie e-mail z linkiem do zresetowania hasła.",module,Magento_User
@@ -5836,8 +5855,15 @@ Delete,Usuń,module,Magento_GiftMessage
 "Message from %sender_name:","Wiadomość od %sender_name:",module,Magento_SendFriend
 "See our Shipping Policy","Zobacz nasze zasady wysyłki",module,Magento_Shipping
 "Sitemap Generation Warnings","Sitemap ostrzeżenia",module,Magento_Sitemap
+"Welcome to %store_name.","Witamy w %store_name.",module,Magento_Theme
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Aby zalogować się na naszej stronie, Użyj tych poświadczeń podczas realizacji zamówienia lub na stronie <a href=""%customer_url"">Moje konto</a>:",module,Magento_Theme
 Email:,E-mail:,module,Magento_Theme
 Password:,Hasło:,module,Magento_Theme
+"Password you set when creating account","Hasła można ustawić podczas tworzenia konta",module,Magento_Theme
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Nie pamiętasz hasła do swojego konta? Kliknij <a href=""%reset_url""> tutaj</a> aby je zresetować.",module,Magento_Theme
+"When you sign in to your account, you will be able to:","Gdy zalogujesz się na swoje konto, będziesz mógł:",module,Magento_Theme
+"Proceed through checkout faster","Przejdź szybciej przez proces zakupowy",module,Magento_Theme
+"Check the status of orders","Sprawdź status zamówienia",module,Magento_Theme
 "View past orders","Zobacz historie zamówień",module,Magento_Theme
 "Store alternative addresses (for shipping to multiple family members and friends)","Zapisywanie alternatywnych adresów (wysyłanych do wielu członków rodziny i przyjaciół)",module,Magento_Theme
 "Changes have been made to this section that have not been saved.","Wprowadzono zmiany do tej sekcji, które nie zostały zapisane.",module,Magento_Ui
@@ -7571,6 +7597,7 @@ Configuration,Konfiguracja,module,Magento_Theme
 "Title Prefix","Przedrostek tytułu",module,Magento_Theme
 "Title Suffix","Przyrostek tytułu",module,Magento_Theme
 "Default Keywords","Domyślne słowa kluczowe",module,Magento_Theme
+"Scripts and Style Sheets","Skrypty i arkuszy stylów",module,Magento_Theme
 "Display Demo Store Notice","Wyświetlaj informację o wersji demonstracyjnej",module,Magento_Theme
 Header,Nagłówek,module,Magento_Theme
 "Logo Image","Obrazek logo",module,Magento_Theme
