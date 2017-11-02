@@ -1862,7 +1862,7 @@ Download,Pobierz,module,Magento_Customer
 "Please correct the email address.","Proszę poprawić adres e-mail.",module,Magento_Customer
 "We're unable to send the password reset email.","Jesteśmy w stanie wysłać e-maila resetowania hasła.",module,Magento_Customer
 "Please enter your email.","Prosimy wpisać adres e-mail",module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Jeśli istnieje konto powiązane z %1 otrzymasz e-mail z linkiem do zresetowania hasła.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Na twój adres email wysłaliśmy link do zresetowania hasła.",module,Magento_Customer
 "My Account","Moje konto",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","To konto nie jest potwierdzone. "" ""<a href=""%1""> kliknij tutaj,</a> aby wysłać e-mail z potwierdzeniem.",module,Magento_Customer
 "Invalid login or password.","Nieprawidłowa nazwa użytkownika lub hasło.",module,Magento_Customer
@@ -2067,7 +2067,7 @@ Save,Zapisz,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Podaj swój adres e-mail poniżej, aby otrzymać link do zresetowania hasła.",module,Magento_Customer
 Submit,Prześlij,module,Magento_Customer
 "Registered Customers","Zarejestrowani klienci",module,Magento_Customer
-"If you have an account, sign in with your email address.","Jeśli posiadasz już konto, to możesz zalogować się przy użyciu adresu e-mail.",module,Magento_Customer
+"If you have an account, sign in with your email address.","Jeśli posiadasz już konto, możesz zalogować się przy użyciu adresu e-mail.",module,Magento_Customer
 Password,Hasło,module,Magento_Customer
 Login,Logowanie,module,Magento_Customer
 "Forgot Your Password?","Nie pamiętasz hasła?",module,Magento_Customer
@@ -3766,7 +3766,7 @@ Reviews,Opinie,module,Magento_Review
 "You deleted the rating.","Możesz usunąć ocenę.",module,Magento_Review
 Ratings,Oceny,module,Magento_Review
 "You saved the rating.","Zapisano ocenę.",module,Magento_Review
-"My Product Reviews","Opinie produktów",module,Magento_Review
+"My Product Reviews","Moje opinie o produktach",module,Magento_Review
 "You submitted your review for moderation.","Dodano swoją recenzję do moderacji.",module,Magento_Review
 "We can't post your review right now.","W tej chili nie możemy wysłać Twojej recenzji.",module,Magento_Review
 "Storage key was not set","Nie został ustawiony klucz pamięci",module,Magento_Review
