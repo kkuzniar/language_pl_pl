@@ -1228,7 +1228,7 @@ Download,Pobierz,module,Magento_Customer
 "Invalid input","Nieprawidłowe dane wejściowe",module,Magento_Customer
 "Please correct the email address.","Proszę poprawić adres e-mail.",module,Magento_Customer
 "Please enter your email.","Prosimy wpisać adres e-mail",module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Jeśli istnieje konto powiązane z %1 otrzymasz e-mail z linkiem do zresetowania hasła.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Na twój adres email wysłaliśmy link do zresetowania hasła.",module,Magento_Customer
 "My Account","Moje konto",module,Magento_Customer
 "Invalid login or password.","Nieprawidłowa nazwa użytkownika lub hasło.",module,Magento_Customer
 "New Password and Confirm New Password values didn't match.","Nowe hasło i Potwierdź nowe hasło nie są identyczne.",module,Magento_Customer
@@ -2583,7 +2583,7 @@ Reviews,Opinie,module,Magento_Review
 "You deleted the rating.","Możesz usunąć ocenę.",module,Magento_Review
 Ratings,Oceny,module,Magento_Review
 "You saved the rating.","Zapisano ocenę.",module,Magento_Review
-"My Product Reviews","Opinie produktów",module,Magento_Review
+"My Product Reviews","Moje opinie o produktach",module,Magento_Review
 "Storage key was not set","Nie został ustawiony klucz pamięci",module,Magento_Review
 Approved,Zatwierdzony,module,Magento_Review
 Pending,Oczekujący,module,Magento_Review
