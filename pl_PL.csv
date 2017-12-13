@@ -4794,7 +4794,7 @@ Shipments,Dostawy,module,Magento_Shipping
 "Tracking Information","Informacje o stanie dostawy",module,Magento_Shipping
 "Sorry, but we can't deliver to the destination country with this shipping module.","Przepraszam, ale nie dostarczamy do wybranego kraju w tym module wysyłki.",module,Magento_Shipping
 "The shipping module is not available.","Moduł dostawy nie jest dostępny.",module,Magento_Shipping
-"This shipping method is not available. Please specify the zip code.","Ta metoda wysyłki nie jest dostępny. Proszę podać kod pocztowy.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","Ta metoda dostawy nie jest dostępna, prosimy podać kod pocztowy.",module,Magento_Shipping
 "No packages for request","Brak paczki dla tego zapytania",module,Magento_Shipping
 "Security validation of XML document has been failed.","Zabezpieczenie poprawności dokumentu XML zakończone niepowodzeniem.",module,Magento_Shipping
 "All Allowed Countries","Wszystkie dozwolone kraje",module,Magento_Shipping
@@ -5740,7 +5740,7 @@ Close,Zamknij,module,Magento_Checkout
 "See Details","Zobacz szczegóły",module,Magento_Checkout
 "Options Details","Szczegóły opcji",module,Magento_Checkout
 Remove,Usuń,module,Magento_Checkout
-"Cart Subtotal","Suma częściowa w koszyku",module,Magento_Checkout
+"Cart Subtotal","Suma częściowa",module,Magento_Checkout
 "Payment Information","Informacje o płatności",module,Magento_Checkout
 "No Payment method available.","Brak dostępnych metod płatności.",module,Magento_Checkout
 "You can track your order status by creating an account.","Jeżeli założysz konto, będziesz mógł śledzić status swojego zamówienia.",module,Magento_Checkout
