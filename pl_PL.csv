@@ -3292,7 +3292,7 @@ Shipments,Dostawy,module,Magento_Shipping
 "There are no shipping labels related to selected shipments.","Brak etykiet adresowych powiązanych z wybranymi dostawami.",module,Magento_Shipping
 "Tracking Information","Informacje o stanie dostawy",module,Magento_Shipping
 "The shipping module is not available.","Moduł dostawy nie jest dostępny.",module,Magento_Shipping
-"This shipping method is not available. Please specify the zip code.","Ta metoda wysyłki nie jest dostępny. Proszę podać kod pocztowy.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","Ta metoda dostawy nie jest dostępna, prosimy podać kod pocztowy.",module,Magento_Shipping
 "No packages for request","Brak paczki dla tego zapytania",module,Magento_Shipping
 "All Allowed Countries","Wszystkie dozwolone kraje",module,Magento_Shipping
 "Specific Countries","Wybrane kraje",module,Magento_Shipping
@@ -4280,7 +4280,7 @@ Details,Szczegóły,module,Magento_Catalog
 "Send Payment Failed Email Copy Method","Wyślij kopię e-maila o nieudanej płatności metodą",module,Magento_Checkout
 "Shipping Address","Adres wysyłki",module,Magento_Checkout
 "For delivery questions.","W przypadku pytań o dostawę.",module,Magento_Checkout
-"Cart Subtotal","Suma częściowa w koszyku",module,Magento_Checkout
+"Cart Subtotal","Suma częściowa",module,Magento_Checkout
 "Not yet calculated","Jeszcze nie obliczone",module,Magento_Checkout
 "Thank you for your purchase!","Dziękujemy za złożenie zamówienia!",module,Magento_Checkout
 "CMS Home Page","Strona główna CMS",module,Magento_Cms
