@@ -298,9 +298,6 @@ YTD,"Od początku roku",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","Czas trwania sesji Admina musi być dłuższy lub równy 60 sekundom",module,Magento_Backend
 Order,Zamówienie,module,Magento_Backend
 "Order #%1","Zamówienie #%1",module,Magento_Backend
-"Access denied","Dostęp zabroniony",module,Magento_Backend
-"Please try to sign out and sign in again.","Prosimy spróbować wylogować się i zalogować ponownie.",module,Magento_Backend
-"If you continue to receive this message, please contact the store owner.","Jeżeli nadal otrzymujesz tę wiadomość, prosimy o kontakt z właścicielem sklepu.",module,Magento_Backend
 "You need more permissions to access this.","Potrzebujesz więcej uprawnień, aby uzyskać dostęp do tej sekcji.",module,Magento_Backend
 "Welcome, please sign in","Zaloguj się",module,Magento_Backend
 Username,"Nazwa użytkownika",module,Magento_Backend
@@ -1395,7 +1392,6 @@ Checkout,Zamówienie,module,Magento_Checkout
 Error!,Błąd!,module,Magento_Checkout
 "DB exception","Błąd bazy danych",module,Magento_Checkout
 Message,Wiadomość,module,Magento_Checkout
-"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Wydrukuj paragon</a>",module,Magento_Checkout
 "Apply Discount Code","Zastosuj kod rabatowy",module,Magento_Checkout
 "Enter discount code","Wprowadź kod rabatowy",module,Magento_Checkout
 "Apply Discount","Zastosuj zniżkę",module,Magento_Checkout
@@ -4790,7 +4786,7 @@ Shipments,Dostawy,module,Magento_Shipping
 "Tracking Information","Informacje o stanie dostawy",module,Magento_Shipping
 "Sorry, but we can't deliver to the destination country with this shipping module.","Przepraszam, ale nie dostarczamy do wybranego kraju w tym module wysyłki.",module,Magento_Shipping
 "The shipping module is not available.","Moduł dostawy nie jest dostępny.",module,Magento_Shipping
-"This shipping method is not available. Please specify the zip code.","Ta metoda dostawy nie jest dostępna, prosimy podać kod pocztowy.",module,Magento_Shipping
+"This shipping method is not available. Please specify the zip code.","Ta metoda wysyłki nie jest dostępny. Proszę podać kod pocztowy.",module,Magento_Shipping
 "No packages for request","Brak paczki dla tego zapytania",module,Magento_Shipping
 "Security validation of XML document has been failed.","Zabezpieczenie poprawności dokumentu XML zakończone niepowodzeniem.",module,Magento_Shipping
 "All Allowed Countries","Wszystkie dozwolone kraje",module,Magento_Shipping
