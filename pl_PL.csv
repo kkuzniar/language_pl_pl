@@ -1351,7 +1351,7 @@ State/Province,Województwo,module,Magento_Checkout
 "You added %1 to your shopping cart.","Dodałeś %1 do koszyka.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Teraz nie ma możliwości dodania tego produktu do Twojego koszyka.",module,Magento_Checkout
 "Out of stock","Brak w magazynie",module,Magento_Checkout
-"We can't find the quote item.","Nie można znaleźć produktu oferty.",module,Magento_Checkout
+"We can't find the quote item.","Nie możemy znaleźć produktu.",module,Magento_Checkout
 "We cannot configure the product.","Nie możemy skonfigurować produktu.",module,Magento_Checkout
 "You used coupon code ""%1"".","Użyłeś kod kuponu ""%1"".",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","Kod kuponu ""%1"" nie jest prawidłowy.",module,Magento_Checkout
@@ -1695,6 +1695,7 @@ Cancel,Anuluj,module,Magento_ConfigurableProduct
 "Special Price","Cena promocyjna",module,Magento_ConfigurableProduct
 "Page not found.","Nie znaleziono strony.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Dziękujemy za skontaktowanie się z nami. Odpowiemy najszybciej jak to będzie możliwe.",module,Magento_Contact
+"Invalid email address","Nieprawidłowy adres e-mail",module,Magento_Contact
 "* Required Fields","* pola wymagane",module,Magento_Contact
 "Write Us","Napisz do nas",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Zostaw nam wiadomość, a my skontaktujemy się z Tobą tak szybko jak to możliwe.",module,Magento_Contact
@@ -3528,6 +3529,7 @@ Duration:,"Czas trwania:",module,Magento_ProductVideo
 "Shipping address is not set","Nie jest ustawiony adres dostawy",module,Magento_Quote
 "The requested Payment Method is not available.","Wybrana metoda płatności nie jest dostępna.",module,Magento_Quote
 "We found an invalid request for adding product to quote.","Znaleźliśmy błędne polecenia dodania produktu do zapytania.",module,Magento_Quote
+"Product that you are trying to add is not available.","Produktu, który próbujesz dodać, nie jest dostępny.",module,Magento_Quote
 "This is the wrong quote item id to update configuration.","To jest nieprawidłowe id produktu zapytania do aktualizacji konfiguracji.",module,Magento_Quote
 "This shipping method is not available. To use this shipping method, please contact us.","Ta metoda wysyłki nie jest dostępna. By jej użyć skontaktuj się z nami.",module,Magento_Quote
 "The address model is not defined.","Model adresu nie został zdefiniowany.",module,Magento_Quote
@@ -3556,6 +3558,7 @@ Subtotal,"Suma częściowa",module,Magento_Quote
 "Minimum order amount is %1","Minimalna wielkość zamówienia to %1",module,Magento_Quote
 "Invalid customer id %1","Nieprawidłowy identyfikator klienta: %1",module,Magento_Quote
 "Invalid address id %1","Nieprawidłowy adres id %1",module,Magento_Quote
+"Invalid customer address id %1","Nieprawidłowy adres id %1",module,Magento_Quote
 "Cannot create quote","Nie udało się utworzyć koszyka",module,Magento_Quote
 "Cannot assign customer to the given cart. The cart belongs to different store.","Nie można przypisać klienta do danego koszyka. Koszyk należy do innego sklepu.",module,Magento_Quote
 "Cannot assign customer to the given cart. The cart is not anonymous.","Nie można przypisać klienta do danego koszyka. Koszyk nie jest anonimowy.",module,Magento_Quote
