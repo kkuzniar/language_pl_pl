@@ -967,7 +967,7 @@ State/Province,Województwo,module,Magento_Checkout
 "My Cart","Mój koszyk",module,Magento_Checkout
 "Minimum order amount is %1","Minimalna wielkość zamówienia to %1",module,Magento_Checkout
 "You added %1 to your shopping cart.","Dodałeś %1 do koszyka.",module,Magento_Checkout
-"We can't find the quote item.","Nie można znaleźć produktu oferty.",module,Magento_Checkout
+"We can't find the quote item.","Nie możemy znaleźć produktu.",module,Magento_Checkout
 "We cannot configure the product.","Nie możemy skonfigurować produktu.",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","Kod kuponu ""%1"" nie jest prawidłowy.",module,Magento_Checkout
 "We cannot apply the coupon code.","Nie jest możliwe zastosowanie tego kodu kuponu.",module,Magento_Checkout
