@@ -1342,7 +1342,7 @@ State/Province,Województwo,module,Magento_Checkout
 "You added %1 to your shopping cart.","Dodałeś %1 do koszyka.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Teraz nie ma możliwości dodania tego produktu do Twojego koszyka.",module,Magento_Checkout
 "Out of stock","Brak w magazynie",module,Magento_Checkout
-"We can't find the quote item.","Nie można znaleźć produktu oferty.",module,Magento_Checkout
+"We can't find the quote item.","Nie możemy znaleźć produktu.",module,Magento_Checkout
 "We cannot configure the product.","Nie możemy skonfigurować produktu.",module,Magento_Checkout
 "You used coupon code ""%1"".","Użyłeś kod kuponu ""%1"".",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","Kod kuponu ""%1"" nie jest prawidłowy.",module,Magento_Checkout
@@ -3559,6 +3559,7 @@ Subtotal,"Suma częściowa",module,Magento_Quote
 "Minimum order amount is %1","Minimalna wielkość zamówienia to %1",module,Magento_Quote
 "Invalid customer id %1","Nieprawidłowy identyfikator klienta: %1",module,Magento_Quote
 "Invalid address id %1","Nieprawidłowy adres id %1",module,Magento_Quote
+"Invalid customer address id %1","Nieprawidłowy adres id %1",module,Magento_Quote
 "Cannot create quote","Nie udało się utworzyć koszyka",module,Magento_Quote
 "Cannot assign customer to the given cart. The cart belongs to different store.","Nie można przypisać klienta do danego koszyka. Koszyk należy do innego sklepu.",module,Magento_Quote
 "Cannot assign customer to the given cart. The cart is not anonymous.","Nie można przypisać klienta do danego koszyka. Koszyk nie jest anonimowy.",module,Magento_Quote
