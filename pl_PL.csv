@@ -1527,6 +1527,7 @@ Add,Dodaj,module,Magento_Config
 Enable,Włącz,module,Magento_Config
 Disable,Wyłącz,module,Magento_Config
 Configuration,Konfiguracja,module,Magento_Config
+"Configuration for path: ""%1"" doesn't exist","Zdefiniowana konfiguracja ""%1"" nie istnieje",module,Magento_Config
 "You saved the configuration.","Zapisane w konfiguracji.",module,Magento_Config
 "Something went wrong while saving this configuration:","Coś się zepsuło podczas zapisywania tej konfiguracji:",module,Magento_Config
 "Page not found.","Nie znaleziono strony.",module,Magento_Config
@@ -1556,6 +1557,7 @@ Configuration,Konfiguracja,module,Magento_Config
 "Currency ""%1"" is used as %2 in %3.","Waluta ""%1"" jest użyta jako %2 w %3.",module,Magento_Config
 "Please correct the timezone.","Proszę poprawić strefę czasowoą",module,Magento_Config
 "The file ""%1"" does not exist","Plik ""%1"" nie istnieje",module,Magento_Config
+"The ""%1"" path does not exist","Konfiguracja nie istnieje",module,Magento_Config
 "Always (during development)","Zawsze (podczas developmentu)",module,Magento_Config
 "Only Once (version upgrade)","Tylko raz (aktualizacja wersji)",module,Magento_Config
 "Never (production)","Nigdy (produkcja)",module,Magento_Config
@@ -1576,6 +1578,12 @@ Yes,Tak,module,Magento_Config
 Specified,Wybrane,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Klon zestawu pól formularza konfiguracyjnego jest wymagany do klonowania pól",module,Magento_Config
 "Invalid XML in file %1:\n%2","Nieprawidłowy kod XML w pliku %1:\n%2",module,Magento_Config
+"'Object is not instance of ' .","'Obiekt nie jest instancją klasy ' .",module,Magento_Config
+"Filesystem is not writable.","Pliki nie mają prawa zapisu.",module,Magento_Config
+"Some error",Błąd,module,Magento_Config
+"Some message","Niektóre wiadomości",module,Magento_Config
+"This command is unavailable right now.","Wybrana komenda nie istnieje.",module,Magento_Config
+"error message","komunikat błędu",module,Magento_Config
 "some prefix","niektóre prefiksy",module,Magento_Config
 "element label","element etykieta",module,Magento_Config
 "element hint","element podpowiedź",module,Magento_Config
@@ -1691,6 +1699,7 @@ Cancel,Anuluj,module,Magento_ConfigurableProduct
 "Special Price","Cena promocyjna",module,Magento_ConfigurableProduct
 "Page not found.","Nie znaleziono strony.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Dziękujemy za skontaktowanie się z nami. Odpowiemy najszybciej jak to będzie możliwe.",module,Magento_Contact
+"An error occurred while processing your form. Please try again later.","Wystąpił błąd podczas przetwarzania formularza. Prosimy spróbować później.",module,Magento_Contact
 "Invalid email address","Nieprawidłowy adres e-mail",module,Magento_Contact
 "* Required Fields","* pola wymagane",module,Magento_Contact
 "Write Us","Napisz do nas",module,Magento_Contact
@@ -1715,6 +1724,8 @@ Monthly,"Co miesiąc",module,Magento_Cron
 "Invalid cron expression, expecting 'match/modulus': %1","Nieprawidłowe wyrażenie cron, spodziewane ""match/modulus"": %1",module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Nieprawidłowe wyrażenie cron, spodziewana wartość numeryczna modulus: %1",module,Magento_Cron
 "Invalid cron expression, expecting 'from-to' structure: %1","Nieprawidłowe wyrażenie cron, spodziewana struktura 'od-do': %1",module,Magento_Cron
+"Some error",Błąd,module,Magento_Cron
+"Test exception","Testowy wyjątek",module,Magento_Cron
 "Save Currency Rates","Zapisz kursy walut",module,Magento_CurrencySymbol
 Options,Opcje,module,Magento_CurrencySymbol
 Reset,Resetuj,module,Magento_CurrencySymbol
@@ -2090,7 +2101,11 @@ Gender,Płeć,module,Magento_Customer
 Name,Nazwa,module,Magento_Customer
 "Tax/VAT number","Numer NIP",module,Magento_Customer
 "Phone Number","Numer telefonu",module,Magento_Customer
+"Import failed: %1","Import nieudany: %1",module,Magento_Deploy
+"Value can't be empty","Wartość nie może być pusta",module,Magento_Deploy
 "Cannot switch into given mode ""%1""","Nie można przełączyć do danego trybu ""%1""",module,Magento_Deploy
+"Wrong logger interface specified.","Wybrana została błędna instancja loggera.",module,Magento_Deploy
+"Some error",Błąd,module,Magento_Deploy
 "Format for IDE '%1' is not supported","Format dla IDE '%1' nie jest obsługiwany",module,Magento_Developer
 "Client side less compilation","Kompilacja less po stronie klienta",module,Magento_Developer
 "Server side less compilation","Kompilacja less po stronie serwera",module,Magento_Developer
@@ -5285,6 +5300,7 @@ Commercial,Komercyjna,module,Magento_Ups
 Pounds,Funty,module,Magento_Ups
 Kilograms,Kilogramy,module,Magento_Ups
 "Sorry, something went wrong. Please try again or contact us and we'll try to help.","Przepraszamy coś poszło nie tak. Proszę spróbować ponownie lub skontaktować się z nami, a my Spróbujemy pomóc.",module,Magento_Ups
+"We can't convert a rate from ""%1-%2"".","Nie można przekonwertować wskaźnika z \"%1-%2"".",module,Magento_Ups
 "Cannot retrieve shipping rates","Nie można pobrać stawek metody wysyłki",module,Magento_Ups
 "Empty response","Pusta odpowiedź",module,Magento_Ups
 "Delivery Confirmation","Potwierdzenie distarczenia",module,Magento_Ups
@@ -6286,6 +6302,7 @@ Action,Operacja,module,Magento_Backup
 "Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Przyjmuj płatności kartą lub przez PayPal w twoim sklepie Magento.<br/> Zero konfiguracji oraz opłat, a twoi klienci nigdy nie opuszczą strony sklepu by dokonać zakupu.",module,Magento_Braintree
 "Enable this Solution","Włącz to rozwiązanie",module,Magento_Braintree
 "Enable PayPal through Braintree","Włącz PayPal za pośrednictwem Braintree",module,Magento_Braintree
+"Vault Enabled","Domyślny włączone",module,Magento_Braintree
 "Basic Braintree Settings","Ustawienia podstawowe Braintree",module,Magento_Braintree
 Title,Tytuł,module,Magento_Braintree
 Environment,Środowisko,module,Magento_Braintree
@@ -6294,8 +6311,10 @@ Environment,Środowisko,module,Magento_Braintree
 "Public Key","Klucz publiczny",module,Magento_Braintree
 "Private Key","Klucz prywatny",module,Magento_Braintree
 "Advanced Braintree Settings","Ustawienia zaawansowane Braintree",module,Magento_Braintree
+"Vault Title","Domyślny tytuł",module,Magento_Braintree
 "Merchant Account ID","Identyfikator konta sprzedawcy",module,Magento_Braintree
 "Advanced Fraud Protection","Zaawansowane zabezpieczenie przed oszustwem",module,Magento_Braintree
+"Kount Merchant ID","Identyfikator sprzedawcy Kount",module,Magento_Braintree
 Debug,"Tryb debug",module,Magento_Braintree
 "CVV Verification","Weryfikacja CVV",module,Magento_Braintree
 "Credit Card Types","Typy kart kredytowych",module,Magento_Braintree
@@ -6311,9 +6330,19 @@ Debug,"Tryb debug",module,Magento_Braintree
 "Skip Order Review","Pomiń krok z podsumowaniem zamówienia",module,Magento_Braintree
 "3D Secure Verification Settings","Ustawienia bezpiecznej weryfikacji 3D",module,Magento_Braintree
 "3D Secure Verification","3D bezpieczna weryfikacja",module,Magento_Braintree
+"Threshold Amount","Wysokość progu",module,Magento_Braintree
+"Verify for Applicable Countries","Zweryfikuj odpowiednie kraje",module,Magento_Braintree
+"Verify for Specific Countries","Zweryfikuj dla określonych krajów",module,Magento_Braintree
+"Dynamic Descriptors","Opis dynamiczny",module,Magento_Braintree
+Name,Nazwa,module,Magento_Braintree
+Phone,Telefon,module,Magento_Braintree
+URL,"ADRES URL",module,Magento_Braintree
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","By uzyskać wyniki zastosuj filtr. Tylko pierwsza 100 rekordów zostanie wyświetlone. Będziesz mógł pobrać resztę w formie pliku .csv.",module,Magento_Braintree
 Select...,Wybierz...,module,Magento_Braintree
 "Transaction Type","Typ transakcji",module,Magento_Braintree
 "Payment Type","Rodzaj płatności",module,Magento_Braintree
+"PayPal Payment ID","Identyfikator płatności PayPal",module,Magento_Braintree
+"Created At",Utworzono,module,Magento_Braintree
 "Transaction ID","ID transakcji",module,Magento_Braintree
 "Order ID","ID zamówienia",module,Magento_Braintree
 Type,Rodzaj,module,Magento_Braintree
@@ -6499,6 +6528,8 @@ Template,Szablon,module,Magento_Catalog
 "Category Link Inline Template","Szablon linii linku kategorii",module,Magento_Catalog
 "Recently Viewed Products","Ostatnio oglądane produkty",module,Magento_Catalog
 "List of Products Recently Viewed by Visitor","Lista produktów ostatnio porównywanych przez odwiedzającego",module,Magento_Catalog
+"UI Component","Komponent UI",module,Magento_Catalog
+"Number of Products to display","Pokazywana liczba produktów",module,Magento_Catalog
 "Product attributes to show","Atrybuty produktu do pokazania",module,Magento_Catalog
 Image,Obraz,module,Magento_Catalog
 "Buttons to show","Przycisk do wyświetlenia",module,Magento_Catalog
