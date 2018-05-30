@@ -5293,6 +5293,7 @@ Commercial,Komercyjna,module,Magento_Ups
 Pounds,Funty,module,Magento_Ups
 Kilograms,Kilogramy,module,Magento_Ups
 "Sorry, something went wrong. Please try again or contact us and we'll try to help.","Przepraszamy coś poszło nie tak. Proszę spróbować ponownie lub skontaktować się z nami, a my Spróbujemy pomóc.",module,Magento_Ups
+"We can't convert a rate from ""%1-%2"".","Nie można przekonwertować wskaźnika z \"%1-%2"".",module,Magento_Ups
 "Cannot retrieve shipping rates","Nie można pobrać stawek metody wysyłki",module,Magento_Ups
 "Empty response","Pusta odpowiedź",module,Magento_Ups
 "Delivery Confirmation","Potwierdzenie distarczenia",module,Magento_Ups
@@ -6316,8 +6317,10 @@ Environment,Środowisko,module,Magento_Braintree
 "Public Key","Klucz publiczny",module,Magento_Braintree
 "Private Key","Klucz prywatny",module,Magento_Braintree
 "Advanced Braintree Settings","Ustawienia zaawansowane Braintree",module,Magento_Braintree
+"Vault Title","Domyślny tytuł",module,Magento_Braintree
 "Merchant Account ID","Identyfikator konta sprzedawcy",module,Magento_Braintree
 "Advanced Fraud Protection","Zaawansowane zabezpieczenie przed oszustwem",module,Magento_Braintree
+"Kount Merchant ID","Identyfikator sprzedawcy Kount",module,Magento_Braintree
 Debug,"Tryb debug",module,Magento_Braintree
 "CVV Verification","Weryfikacja CVV",module,Magento_Braintree
 "Credit Card Types","Typy kart kredytowych",module,Magento_Braintree
@@ -6332,12 +6335,18 @@ Debug,"Tryb debug",module,Magento_Braintree
 "Display on Shopping Cart","Wyświetl w koszyk",module,Magento_Braintree
 "3D Secure Verification Settings","Ustawienia bezpiecznej weryfikacji 3D",module,Magento_Braintree
 "3D Secure Verification","3D bezpieczna weryfikacja",module,Magento_Braintree
+"Threshold Amount","Wysokość progu",module,Magento_Braintree
+"Verify for Applicable Countries","Zweryfikuj odpowiednie kraje",module,Magento_Braintree
+"Verify for Specific Countries","Zweryfikuj dla określonych krajów",module,Magento_Braintree
+"Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","By uzyskać wyniki zastosuj filtr. Tylko pierwsza 100 rekordów zostanie wyświetlone. Będziesz mógł pobrać resztę w formie pliku .csv.",module,Magento_Braintree
 Select...,Wybierz...,module,Magento_Braintree
 "Transaction Type","Typ transakcji",module,Magento_Braintree
+"PayPal Payment ID","Identyfikator płatności PayPal",module,Magento_Braintree
 "Transaction ID","ID transakcji",module,Magento_Braintree
 "Order ID","ID zamówienia",module,Magento_Braintree
 "Payment Type","Rodzaj płatności",module,Magento_Braintree
 Type,Rodzaj,module,Magento_Braintree
+"Created At",Utworzono,module,Magento_Braintree
 Amount,Kwota,module,Magento_Braintree
 Currency,Waluta,module,Magento_Braintree
 Select...,Wybierz...,module,Magento_Bundle
