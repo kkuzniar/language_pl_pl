@@ -7786,3 +7786,5 @@ Delete,Usuń,module,Magento_Wishlist
 "Account Dashboard",Panel,theme,frontend/Magento/luma
 "Address Book","Książka adresowa",theme,frontend/Magento/luma
 "Account Information","Dane konta",theme,frontend/Magento/luma
+"We're unable to send the password reset email.","Nie jesteśmy w stanie wysłać e-maila resetowania hasła.",module,Magento_Customer
+"We're unable to send the password reset email.","Nie jesteśmy w stanie wysłać e-maila resetowania hasła.",module,Magento_User
